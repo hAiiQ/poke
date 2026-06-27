@@ -1,0 +1,6152 @@
+[
+  {
+    "id": 1,
+    "pokemon": "Bisasam",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 2,
+    "pokemon": "Bisaknosp",
+    "rarity": "Uncommon",
+    "preis": "0.95"
+  },
+  {
+    "id": 3,
+    "pokemon": "Bisaflor",
+    "rarity": "Rare",
+    "preis": "7.02"
+  },
+  {
+    "id": 4,
+    "pokemon": "Glumanda",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 5,
+    "pokemon": "Glutexo",
+    "rarity": "Uncommon",
+    "preis": "1.01"
+  },
+  {
+    "id": 6,
+    "pokemon": "Glurak",
+    "rarity": "Epic",
+    "preis": "16.00"
+  },
+  {
+    "id": 7,
+    "pokemon": "Schiggy",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 8,
+    "pokemon": "Schillok",
+    "rarity": "Uncommon",
+    "preis": "1.01"
+  },
+  {
+    "id": 9,
+    "pokemon": "Turtok",
+    "rarity": "Rare",
+    "preis": "7.24"
+  },
+  {
+    "id": 10,
+    "pokemon": "Raupy",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 11,
+    "pokemon": "Safcon",
+    "rarity": "Common",
+    "preis": "0.34"
+  },
+  {
+    "id": 12,
+    "pokemon": "Smettbo",
+    "rarity": "Uncommon",
+    "preis": "1.15"
+  },
+  {
+    "id": 13,
+    "pokemon": "Hornliu",
+    "rarity": "Common",
+    "preis": "0.05"
+  },
+  {
+    "id": 14,
+    "pokemon": "Kokuna",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 15,
+    "pokemon": "Bibor",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 16,
+    "pokemon": "Taubsi",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 17,
+    "pokemon": "Tauboga",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 18,
+    "pokemon": "Tauboss",
+    "rarity": "Uncommon",
+    "preis": "0.42"
+  },
+  {
+    "id": 19,
+    "pokemon": "Rattfratz",
+    "rarity": "Common",
+    "preis": "0.05"
+  },
+  {
+    "id": 20,
+    "pokemon": "Rattikarl",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 21,
+    "pokemon": "Habitak",
+    "rarity": "Common",
+    "preis": "0.08"
+  },
+  {
+    "id": 22,
+    "pokemon": "Ibitak",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 23,
+    "pokemon": "Rettan",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 24,
+    "pokemon": "Arbok",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 25,
+    "pokemon": "Pikachu",
+    "rarity": "Rare",
+    "preis": "6.63"
+  },
+  {
+    "id": 26,
+    "pokemon": "Raichu",
+    "rarity": "Epic",
+    "preis": "16.25"
+  },
+  {
+    "id": 27,
+    "pokemon": "Sandan",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 28,
+    "pokemon": "Sandamer",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 29,
+    "pokemon": "Nidoran♀",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 30,
+    "pokemon": "Nidorina",
+    "rarity": "Uncommon",
+    "preis": "1.01"
+  },
+  {
+    "id": 31,
+    "pokemon": "Nidoqueen",
+    "rarity": "Rare",
+    "preis": "3.43"
+  },
+  {
+    "id": 32,
+    "pokemon": "Nidoran♂",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 33,
+    "pokemon": "Nidorino",
+    "rarity": "Uncommon",
+    "preis": "1.14"
+  },
+  {
+    "id": 34,
+    "pokemon": "Nidoking",
+    "rarity": "Rare",
+    "preis": "3.37"
+  },
+  {
+    "id": 35,
+    "pokemon": "Piepi",
+    "rarity": "Common",
+    "preis": "0.30"
+  },
+  {
+    "id": 36,
+    "pokemon": "Pixi",
+    "rarity": "Uncommon",
+    "preis": "1.15"
+  },
+  {
+    "id": 37,
+    "pokemon": "Vulpix",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 38,
+    "pokemon": "Vulnona",
+    "rarity": "Uncommon",
+    "preis": "1.44"
+  },
+  {
+    "id": 39,
+    "pokemon": "Pummeluff",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 40,
+    "pokemon": "Knuddeluff",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 41,
+    "pokemon": "Zubat",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 42,
+    "pokemon": "Golbat",
+    "rarity": "Uncommon",
+    "preis": "0.98"
+  },
+  {
+    "id": 43,
+    "pokemon": "Myrapla",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 44,
+    "pokemon": "Duflor",
+    "rarity": "Uncommon",
+    "preis": "0.97"
+  },
+  {
+    "id": 45,
+    "pokemon": "Giflor",
+    "rarity": "Rare",
+    "preis": "3.02"
+  },
+  {
+    "id": 46,
+    "pokemon": "Paras",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 47,
+    "pokemon": "Parasek",
+    "rarity": "Uncommon",
+    "preis": "0.53"
+  },
+  {
+    "id": 48,
+    "pokemon": "Bluzuk",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 49,
+    "pokemon": "Omot",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 50,
+    "pokemon": "Digda",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 51,
+    "pokemon": "Digdri",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 52,
+    "pokemon": "Mauzi",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 53,
+    "pokemon": "Snobilikat",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 54,
+    "pokemon": "Enton",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 55,
+    "pokemon": "Entoron",
+    "rarity": "Uncommon",
+    "preis": "0.59"
+  },
+  {
+    "id": 56,
+    "pokemon": "Menki",
+    "rarity": "Uncommon",
+    "preis": "1.81"
+  },
+  {
+    "id": 57,
+    "pokemon": "Rasaff",
+    "rarity": "Rare",
+    "preis": "4.59"
+  },
+  {
+    "id": 58,
+    "pokemon": "Fukano",
+    "rarity": "Uncommon",
+    "preis": "1.96"
+  },
+  {
+    "id": 59,
+    "pokemon": "Arkani",
+    "rarity": "Rare",
+    "preis": "7.65"
+  },
+  {
+    "id": 60,
+    "pokemon": "Quapsel",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 61,
+    "pokemon": "Quaputzi",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 62,
+    "pokemon": "Quappo",
+    "rarity": "Uncommon",
+    "preis": "1.25"
+  },
+  {
+    "id": 63,
+    "pokemon": "Abra",
+    "rarity": "Uncommon",
+    "preis": "1.96"
+  },
+  {
+    "id": 64,
+    "pokemon": "Kadabra",
+    "rarity": "Rare",
+    "preis": "5.32"
+  },
+  {
+    "id": 65,
+    "pokemon": "Simsala",
+    "rarity": "Epic",
+    "preis": "14.75"
+  },
+  {
+    "id": 66,
+    "pokemon": "Machollo",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 67,
+    "pokemon": "Maschock",
+    "rarity": "Uncommon",
+    "preis": "1.12"
+  },
+  {
+    "id": 68,
+    "pokemon": "Machomei",
+    "rarity": "Rare",
+    "preis": "3.33"
+  },
+  {
+    "id": 69,
+    "pokemon": "Knofensa",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 70,
+    "pokemon": "Ultrigaria",
+    "rarity": "Common",
+    "preis": "0.36"
+  },
+  {
+    "id": 71,
+    "pokemon": "Sarzenia",
+    "rarity": "Uncommon",
+    "preis": "1.11"
+  },
+  {
+    "id": 72,
+    "pokemon": "Tentacha",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 73,
+    "pokemon": "Tentoxa",
+    "rarity": "Uncommon",
+    "preis": "1.43"
+  },
+  {
+    "id": 74,
+    "pokemon": "Kleinstein",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 75,
+    "pokemon": "Georok",
+    "rarity": "Uncommon",
+    "preis": "1.03"
+  },
+  {
+    "id": 76,
+    "pokemon": "Geowaz",
+    "rarity": "Rare",
+    "preis": "3.12"
+  },
+  {
+    "id": 77,
+    "pokemon": "Ponita",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 78,
+    "pokemon": "Gallopa",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 79,
+    "pokemon": "Flegmon",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 80,
+    "pokemon": "Lahmus",
+    "rarity": "Uncommon",
+    "preis": "1.69"
+  },
+  {
+    "id": 81,
+    "pokemon": "Magnetilo",
+    "rarity": "Uncommon",
+    "preis": "2.07"
+  },
+  {
+    "id": 82,
+    "pokemon": "Magneton",
+    "rarity": "Rare",
+    "preis": "5.22"
+  },
+  {
+    "id": 83,
+    "pokemon": "Porenta",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 84,
+    "pokemon": "Dodu",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 85,
+    "pokemon": "Dodri",
+    "rarity": "Uncommon",
+    "preis": "1.43"
+  },
+  {
+    "id": 86,
+    "pokemon": "Jurob",
+    "rarity": "Common",
+    "preis": "0.07"
+  },
+  {
+    "id": 87,
+    "pokemon": "Jugong",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 88,
+    "pokemon": "Sleima",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 89,
+    "pokemon": "Sleimok",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 90,
+    "pokemon": "Muschas",
+    "rarity": "Rare",
+    "preis": "7.11"
+  },
+  {
+    "id": 91,
+    "pokemon": "Austos",
+    "rarity": "Epic",
+    "preis": "24.50"
+  },
+  {
+    "id": 92,
+    "pokemon": "Nebulak",
+    "rarity": "Uncommon",
+    "preis": "1.96"
+  },
+  {
+    "id": 93,
+    "pokemon": "Alpollo",
+    "rarity": "Rare",
+    "preis": "5.40"
+  },
+  {
+    "id": 94,
+    "pokemon": "Gengar",
+    "rarity": "Epic",
+    "preis": "51.25"
+  },
+  {
+    "id": 95,
+    "pokemon": "Onix",
+    "rarity": "Uncommon",
+    "preis": "0.41"
+  },
+  {
+    "id": 96,
+    "pokemon": "Traumato",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 97,
+    "pokemon": "Hypno",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 98,
+    "pokemon": "Krabby",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 99,
+    "pokemon": "Kingler",
+    "rarity": "Uncommon",
+    "preis": "1.42"
+  },
+  {
+    "id": 100,
+    "pokemon": "Voltobal",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 101,
+    "pokemon": "Lektrobal",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 102,
+    "pokemon": "Owei",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 103,
+    "pokemon": "Kokowei",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 104,
+    "pokemon": "Tragosso",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 105,
+    "pokemon": "Knogga",
+    "rarity": "Uncommon",
+    "preis": "1.50"
+  },
+  {
+    "id": 106,
+    "pokemon": "Kicklee",
+    "rarity": "Uncommon",
+    "preis": "1.41"
+  },
+  {
+    "id": 107,
+    "pokemon": "Nockchan",
+    "rarity": "Uncommon",
+    "preis": "1.53"
+  },
+  {
+    "id": 108,
+    "pokemon": "Schlurp",
+    "rarity": "Uncommon",
+    "preis": "0.82"
+  },
+  {
+    "id": 109,
+    "pokemon": "Smogon",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 110,
+    "pokemon": "Smogmog",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 111,
+    "pokemon": "Rihorn",
+    "rarity": "Uncommon",
+    "preis": "2.00"
+  },
+  {
+    "id": 112,
+    "pokemon": "Rizeros",
+    "rarity": "Rare",
+    "preis": "4.94"
+  },
+  {
+    "id": 113,
+    "pokemon": "Chaneira",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 114,
+    "pokemon": "Tangela",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 115,
+    "pokemon": "Kangama",
+    "rarity": "Rare",
+    "preis": "2.70"
+  },
+  {
+    "id": 116,
+    "pokemon": "Seeper",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 117,
+    "pokemon": "Seemon",
+    "rarity": "Uncommon",
+    "preis": "0.93"
+  },
+  {
+    "id": 118,
+    "pokemon": "Goldini",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 119,
+    "pokemon": "Golking",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 120,
+    "pokemon": "Sterndu",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 121,
+    "pokemon": "Starmie",
+    "rarity": "Uncommon",
+    "preis": "1.50"
+  },
+  {
+    "id": 122,
+    "pokemon": "Pantimos",
+    "rarity": "Common",
+    "preis": "0.35"
+  },
+  {
+    "id": 123,
+    "pokemon": "Sichlor",
+    "rarity": "Rare",
+    "preis": "7.08"
+  },
+  {
+    "id": 124,
+    "pokemon": "Rossana",
+    "rarity": "Uncommon",
+    "preis": "1.46"
+  },
+  {
+    "id": 125,
+    "pokemon": "Elektek",
+    "rarity": "Uncommon",
+    "preis": "1.00"
+  },
+  {
+    "id": 126,
+    "pokemon": "Magmar",
+    "rarity": "Uncommon",
+    "preis": "1.15"
+  },
+  {
+    "id": 127,
+    "pokemon": "Pinsir",
+    "rarity": "Rare",
+    "preis": "2.79"
+  },
+  {
+    "id": 128,
+    "pokemon": "Tauros",
+    "rarity": "Rare",
+    "preis": "2.90"
+  },
+  {
+    "id": 129,
+    "pokemon": "Karpador",
+    "rarity": "Uncommon",
+    "preis": "1.66"
+  },
+  {
+    "id": 130,
+    "pokemon": "Garados",
+    "rarity": "Rare",
+    "preis": "10.25"
+  },
+  {
+    "id": 131,
+    "pokemon": "Lapras",
+    "rarity": "Rare",
+    "preis": "3.04"
+  },
+  {
+    "id": 132,
+    "pokemon": "Ditto",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 133,
+    "pokemon": "Evoli",
+    "rarity": "Uncommon",
+    "preis": "1.08"
+  },
+  {
+    "id": 134,
+    "pokemon": "Aquana",
+    "rarity": "Rare",
+    "preis": "3.73"
+  },
+  {
+    "id": 135,
+    "pokemon": "Blitza",
+    "rarity": "Rare",
+    "preis": "3.55"
+  },
+  {
+    "id": 136,
+    "pokemon": "Flamara",
+    "rarity": "Rare",
+    "preis": "3.33"
+  },
+  {
+    "id": 137,
+    "pokemon": "Porygon",
+    "rarity": "Uncommon",
+    "preis": "2.02"
+  },
+  {
+    "id": 138,
+    "pokemon": "Amonitas",
+    "rarity": "Uncommon",
+    "preis": "0.83"
+  },
+  {
+    "id": 139,
+    "pokemon": "Amoroso",
+    "rarity": "Uncommon",
+    "preis": "1.92"
+  },
+  {
+    "id": 140,
+    "pokemon": "Kabuto",
+    "rarity": "Uncommon",
+    "preis": "0.77"
+  },
+  {
+    "id": 141,
+    "pokemon": "Kabutops",
+    "rarity": "Uncommon",
+    "preis": "1.89"
+  },
+  {
+    "id": 142,
+    "pokemon": "Aerodactyl",
+    "rarity": "Rare",
+    "preis": "7.84"
+  },
+  {
+    "id": 143,
+    "pokemon": "Relaxo",
+    "rarity": "Epic",
+    "preis": "16.00"
+  },
+  {
+    "id": 144,
+    "pokemon": "Arktos",
+    "rarity": "Legendary",
+    "preis": "1301.00"
+  },
+  {
+    "id": 145,
+    "pokemon": "Zapdos",
+    "rarity": "Legendary",
+    "preis": "1739.00"
+  },
+  {
+    "id": 146,
+    "pokemon": "Lavados",
+    "rarity": "Legendary",
+    "preis": "1682.00"
+  },
+  {
+    "id": 147,
+    "pokemon": "Dratini",
+    "rarity": "Uncommon",
+    "preis": "1.82"
+  },
+  {
+    "id": 148,
+    "pokemon": "Dragonir",
+    "rarity": "Rare",
+    "preis": "5.49"
+  },
+  {
+    "id": 149,
+    "pokemon": "Dragoran",
+    "rarity": "Epic",
+    "preis": "48.75"
+  },
+  {
+    "id": 150,
+    "pokemon": "Mewtu",
+    "rarity": "Mythic",
+    "preis": "5544.00"
+  },
+  {
+    "id": 151,
+    "pokemon": "Mew",
+    "rarity": "Mythic",
+    "preis": "4692.00"
+  },
+  {
+    "id": 152,
+    "pokemon": "Endivie",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 153,
+    "pokemon": "Lorblatt",
+    "rarity": "Common",
+    "preis": "0.31"
+  },
+  {
+    "id": 154,
+    "pokemon": "Meganie",
+    "rarity": "Uncommon",
+    "preis": "1.08"
+  },
+  {
+    "id": 155,
+    "pokemon": "Feurigel",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 156,
+    "pokemon": "Igelavar",
+    "rarity": "Uncommon",
+    "preis": "1.07"
+  },
+  {
+    "id": 157,
+    "pokemon": "Tornupto",
+    "rarity": "Rare",
+    "preis": "3.16"
+  },
+  {
+    "id": 158,
+    "pokemon": "Karnimani",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 159,
+    "pokemon": "Tyracroc",
+    "rarity": "Uncommon",
+    "preis": "1.02"
+  },
+  {
+    "id": 160,
+    "pokemon": "Impergator",
+    "rarity": "Rare",
+    "preis": "3.21"
+  },
+  {
+    "id": 161,
+    "pokemon": "Wiesor",
+    "rarity": "Common",
+    "preis": "0.03"
+  },
+  {
+    "id": 162,
+    "pokemon": "Wiesenior",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 163,
+    "pokemon": "Hoothoot",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 164,
+    "pokemon": "Noctuh",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 165,
+    "pokemon": "Ledyba",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 166,
+    "pokemon": "Ledian",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 167,
+    "pokemon": "Webarak",
+    "rarity": "Common",
+    "preis": "0.03"
+  },
+  {
+    "id": 168,
+    "pokemon": "Ariados",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 169,
+    "pokemon": "Iksbat",
+    "rarity": "Rare",
+    "preis": "3.39"
+  },
+  {
+    "id": 170,
+    "pokemon": "Lampi",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 171,
+    "pokemon": "Lanturn",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 172,
+    "pokemon": "Pichu",
+    "rarity": "Uncommon",
+    "preis": "1.59"
+  },
+  {
+    "id": 173,
+    "pokemon": "Pii",
+    "rarity": "Common",
+    "preis": "0.16"
+  },
+  {
+    "id": 174,
+    "pokemon": "Fluffeluff",
+    "rarity": "Common",
+    "preis": "0.06"
+  },
+  {
+    "id": 175,
+    "pokemon": "Togepi",
+    "rarity": "Common",
+    "preis": "0.33"
+  },
+  {
+    "id": 176,
+    "pokemon": "Togetic",
+    "rarity": "Uncommon",
+    "preis": "1.08"
+  },
+  {
+    "id": 177,
+    "pokemon": "Natu",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 178,
+    "pokemon": "Xatu",
+    "rarity": "Uncommon",
+    "preis": "0.59"
+  },
+  {
+    "id": 179,
+    "pokemon": "Voltilamm",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 180,
+    "pokemon": "Waaty",
+    "rarity": "Common",
+    "preis": "0.33"
+  },
+  {
+    "id": 181,
+    "pokemon": "Ampharos",
+    "rarity": "Uncommon",
+    "preis": "1.03"
+  },
+  {
+    "id": 182,
+    "pokemon": "Blubella",
+    "rarity": "Rare",
+    "preis": "3.04"
+  },
+  {
+    "id": 183,
+    "pokemon": "Marill",
+    "rarity": "Rare",
+    "preis": "3.40"
+  },
+  {
+    "id": 184,
+    "pokemon": "Azumarill",
+    "rarity": "Rare",
+    "preis": "9.10"
+  },
+  {
+    "id": 185,
+    "pokemon": "Mogelbaum",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 186,
+    "pokemon": "Quaxo",
+    "rarity": "Uncommon",
+    "preis": "1.18"
+  },
+  {
+    "id": 187,
+    "pokemon": "Hoppspross",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 188,
+    "pokemon": "Hubelupf",
+    "rarity": "Common",
+    "preis": "0.33"
+  },
+  {
+    "id": 189,
+    "pokemon": "Papungha",
+    "rarity": "Uncommon",
+    "preis": "0.99"
+  },
+  {
+    "id": 190,
+    "pokemon": "Griffel",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 191,
+    "pokemon": "Sonnkern",
+    "rarity": "Common",
+    "preis": "0.06"
+  },
+  {
+    "id": 192,
+    "pokemon": "Sonnflora",
+    "rarity": "Common",
+    "preis": "0.27"
+  },
+  {
+    "id": 193,
+    "pokemon": "Yanma",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 194,
+    "pokemon": "Felino",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 195,
+    "pokemon": "Morlord",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 196,
+    "pokemon": "Psiana",
+    "rarity": "Rare",
+    "preis": "4.06"
+  },
+  {
+    "id": 197,
+    "pokemon": "Nachtara",
+    "rarity": "Rare",
+    "preis": "5.41"
+  },
+  {
+    "id": 198,
+    "pokemon": "Kramurx",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 199,
+    "pokemon": "Laschoking",
+    "rarity": "Uncommon",
+    "preis": "1.59"
+  },
+  {
+    "id": 200,
+    "pokemon": "Traunfugil",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 201,
+    "pokemon": "Icognito",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 202,
+    "pokemon": "Woingenau",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 203,
+    "pokemon": "Girafarig",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 204,
+    "pokemon": "Tannza",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 205,
+    "pokemon": "Forstellka",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 206,
+    "pokemon": "Dummisel",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 207,
+    "pokemon": "Skorgla",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 208,
+    "pokemon": "Stahlos",
+    "rarity": "Uncommon",
+    "preis": "1.44"
+  },
+  {
+    "id": 209,
+    "pokemon": "Snubbull",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 210,
+    "pokemon": "Granbull",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 211,
+    "pokemon": "Baldorfish",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 212,
+    "pokemon": "Scherox",
+    "rarity": "Epic",
+    "preis": "26.25"
+  },
+  {
+    "id": 213,
+    "pokemon": "Pottrott",
+    "rarity": "Uncommon",
+    "preis": "0.68"
+  },
+  {
+    "id": 214,
+    "pokemon": "Skaraborn",
+    "rarity": "Rare",
+    "preis": "7.98"
+  },
+  {
+    "id": 215,
+    "pokemon": "Sniebel",
+    "rarity": "Uncommon",
+    "preis": "2.02"
+  },
+  {
+    "id": 216,
+    "pokemon": "Teddiursa",
+    "rarity": "Uncommon",
+    "preis": "2.01"
+  },
+  {
+    "id": 217,
+    "pokemon": "Ursaring",
+    "rarity": "Rare",
+    "preis": "4.87"
+  },
+  {
+    "id": 218,
+    "pokemon": "Schneckmag",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 219,
+    "pokemon": "Magcargo",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 220,
+    "pokemon": "Quiekel",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 221,
+    "pokemon": "Keifel",
+    "rarity": "Uncommon",
+    "preis": "1.04"
+  },
+  {
+    "id": 222,
+    "pokemon": "Corasonn",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 223,
+    "pokemon": "Remoraid",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 224,
+    "pokemon": "Octillery",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 225,
+    "pokemon": "Botogel",
+    "rarity": "Common",
+    "preis": "0.27"
+  },
+  {
+    "id": 226,
+    "pokemon": "Mantax",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 227,
+    "pokemon": "Panzaeron",
+    "rarity": "Rare",
+    "preis": "2.68"
+  },
+  {
+    "id": 228,
+    "pokemon": "Hunduster",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 229,
+    "pokemon": "Hundemon",
+    "rarity": "Uncommon",
+    "preis": "1.41"
+  },
+  {
+    "id": 230,
+    "pokemon": "Seedraking",
+    "rarity": "Rare",
+    "preis": "3.28"
+  },
+  {
+    "id": 231,
+    "pokemon": "Phanpy",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 232,
+    "pokemon": "Donphan",
+    "rarity": "Uncommon",
+    "preis": "1.50"
+  },
+  {
+    "id": 233,
+    "pokemon": "Porygon2",
+    "rarity": "Rare",
+    "preis": "5.21"
+  },
+  {
+    "id": 234,
+    "pokemon": "Damhirplex",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 235,
+    "pokemon": "Farbeagle",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 236,
+    "pokemon": "Rabauz",
+    "rarity": "Common",
+    "preis": "0.30"
+  },
+  {
+    "id": 237,
+    "pokemon": "Kapoera",
+    "rarity": "Uncommon",
+    "preis": "1.43"
+  },
+  {
+    "id": 238,
+    "pokemon": "Kussilla",
+    "rarity": "Common",
+    "preis": "0.30"
+  },
+  {
+    "id": 239,
+    "pokemon": "Elekid",
+    "rarity": "Common",
+    "preis": "0.34"
+  },
+  {
+    "id": 240,
+    "pokemon": "Magby",
+    "rarity": "Common",
+    "preis": "0.33"
+  },
+  {
+    "id": 241,
+    "pokemon": "Miltank",
+    "rarity": "Rare",
+    "preis": "2.88"
+  },
+  {
+    "id": 242,
+    "pokemon": "Heiteira",
+    "rarity": "Uncommon",
+    "preis": "1.59"
+  },
+  {
+    "id": 243,
+    "pokemon": "Raikou",
+    "rarity": "Legendary",
+    "preis": "1670.00"
+  },
+  {
+    "id": 244,
+    "pokemon": "Entei",
+    "rarity": "Legendary",
+    "preis": "1590.00"
+  },
+  {
+    "id": 245,
+    "pokemon": "Suicune",
+    "rarity": "Legendary",
+    "preis": "1575.00"
+  },
+  {
+    "id": 246,
+    "pokemon": "Larvitar",
+    "rarity": "Uncommon",
+    "preis": "1.90"
+  },
+  {
+    "id": 247,
+    "pokemon": "Pupitar",
+    "rarity": "Rare",
+    "preis": "5.08"
+  },
+  {
+    "id": 248,
+    "pokemon": "Despotar",
+    "rarity": "Epic",
+    "preis": "46.75"
+  },
+  {
+    "id": 249,
+    "pokemon": "Lugia",
+    "rarity": "Mythic",
+    "preis": "4863.00"
+  },
+  {
+    "id": 250,
+    "pokemon": "Ho-Oh",
+    "rarity": "Mythic",
+    "preis": "4513.00"
+  },
+  {
+    "id": 251,
+    "pokemon": "Celebi",
+    "rarity": "Legendary",
+    "preis": "2370.00"
+  },
+  {
+    "id": 252,
+    "pokemon": "Geckarbor",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 253,
+    "pokemon": "Reptain",
+    "rarity": "Uncommon",
+    "preis": "1.18"
+  },
+  {
+    "id": 254,
+    "pokemon": "Gewaldro",
+    "rarity": "Rare",
+    "preis": "3.38"
+  },
+  {
+    "id": 255,
+    "pokemon": "Flemmli",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 256,
+    "pokemon": "Jungglut",
+    "rarity": "Rare",
+    "preis": "3.20"
+  },
+  {
+    "id": 257,
+    "pokemon": "Lohgock",
+    "rarity": "Rare",
+    "preis": "9.13"
+  },
+  {
+    "id": 258,
+    "pokemon": "Hydropi",
+    "rarity": "Uncommon",
+    "preis": "0.42"
+  },
+  {
+    "id": 259,
+    "pokemon": "Moorabbel",
+    "rarity": "Uncommon",
+    "preis": "0.94"
+  },
+  {
+    "id": 260,
+    "pokemon": "Sumpex",
+    "rarity": "Rare",
+    "preis": "3.45"
+  },
+  {
+    "id": 261,
+    "pokemon": "Fiffyen",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 262,
+    "pokemon": "Magnayen",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 263,
+    "pokemon": "Zigzachs",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 264,
+    "pokemon": "Geradaks",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 265,
+    "pokemon": "Waumpel",
+    "rarity": "Common",
+    "preis": "0.03"
+  },
+  {
+    "id": 266,
+    "pokemon": "Schaloko",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 267,
+    "pokemon": "Papinella",
+    "rarity": "Uncommon",
+    "preis": "0.41"
+  },
+  {
+    "id": 268,
+    "pokemon": "Panekon",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 269,
+    "pokemon": "Pudox",
+    "rarity": "Uncommon",
+    "preis": "0.39"
+  },
+  {
+    "id": 270,
+    "pokemon": "Loturzel",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 271,
+    "pokemon": "Lombrero",
+    "rarity": "Uncommon",
+    "preis": "0.95"
+  },
+  {
+    "id": 272,
+    "pokemon": "Kappalores",
+    "rarity": "Rare",
+    "preis": "3.09"
+  },
+  {
+    "id": 273,
+    "pokemon": "Samurzel",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 274,
+    "pokemon": "Blanas",
+    "rarity": "Common",
+    "preis": "0.27"
+  },
+  {
+    "id": 275,
+    "pokemon": "Tengulist",
+    "rarity": "Uncommon",
+    "preis": "1.04"
+  },
+  {
+    "id": 276,
+    "pokemon": "Schwalbini",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 277,
+    "pokemon": "Schwalboss",
+    "rarity": "Uncommon",
+    "preis": "1.56"
+  },
+  {
+    "id": 278,
+    "pokemon": "Wingull",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 279,
+    "pokemon": "Pelipper",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 280,
+    "pokemon": "Trasla",
+    "rarity": "Uncommon",
+    "preis": "1.99"
+  },
+  {
+    "id": 281,
+    "pokemon": "Kirlia",
+    "rarity": "Rare",
+    "preis": "5.19"
+  },
+  {
+    "id": 282,
+    "pokemon": "Guardevoir",
+    "rarity": "Epic",
+    "preis": "39.25"
+  },
+  {
+    "id": 283,
+    "pokemon": "Gehweiher",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 284,
+    "pokemon": "Maskeregen",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 285,
+    "pokemon": "Knilz",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 286,
+    "pokemon": "Kapilz",
+    "rarity": "Uncommon",
+    "preis": "1.67"
+  },
+  {
+    "id": 287,
+    "pokemon": "Bummelz",
+    "rarity": "Uncommon",
+    "preis": "1.91"
+  },
+  {
+    "id": 288,
+    "pokemon": "Muntier",
+    "rarity": "Rare",
+    "preis": "4.75"
+  },
+  {
+    "id": 289,
+    "pokemon": "Letarking",
+    "rarity": "Epic",
+    "preis": "15.25"
+  },
+  {
+    "id": 290,
+    "pokemon": "Nincada",
+    "rarity": "Uncommon",
+    "preis": "1.85"
+  },
+  {
+    "id": 291,
+    "pokemon": "Ninjask",
+    "rarity": "Rare",
+    "preis": "8.40"
+  },
+  {
+    "id": 292,
+    "pokemon": "Ninjatom",
+    "rarity": "Rare",
+    "preis": "7.45"
+  },
+  {
+    "id": 293,
+    "pokemon": "Flurmel",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 294,
+    "pokemon": "Krakeelo",
+    "rarity": "Common",
+    "preis": "0.32"
+  },
+  {
+    "id": 295,
+    "pokemon": "Krawumms",
+    "rarity": "Uncommon",
+    "preis": "1.16"
+  },
+  {
+    "id": 296,
+    "pokemon": "Makuhita",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 297,
+    "pokemon": "Hariyama",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 298,
+    "pokemon": "Azurill",
+    "rarity": "Uncommon",
+    "preis": "1.18"
+  },
+  {
+    "id": 299,
+    "pokemon": "Nasgnet",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 300,
+    "pokemon": "Eneco",
+    "rarity": "Common",
+    "preis": "0.06"
+  },
+  {
+    "id": 301,
+    "pokemon": "Enekoro",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 302,
+    "pokemon": "Zobiris",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 303,
+    "pokemon": "Flunkifer",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 304,
+    "pokemon": "Stollunior",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 305,
+    "pokemon": "Stollrak",
+    "rarity": "Uncommon",
+    "preis": "1.00"
+  },
+  {
+    "id": 306,
+    "pokemon": "Stolloss",
+    "rarity": "Rare",
+    "preis": "3.29"
+  },
+  {
+    "id": 307,
+    "pokemon": "Meditie",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 308,
+    "pokemon": "Meditalis",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 309,
+    "pokemon": "Frizelbliz",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 310,
+    "pokemon": "Voltenso",
+    "rarity": "Uncommon",
+    "preis": "0.63"
+  },
+  {
+    "id": 311,
+    "pokemon": "Plusle",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 312,
+    "pokemon": "Minun",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 313,
+    "pokemon": "Volbeat",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 314,
+    "pokemon": "Illumise",
+    "rarity": "Common",
+    "preis": "0.27"
+  },
+  {
+    "id": 315,
+    "pokemon": "Roselia",
+    "rarity": "Uncommon",
+    "preis": "1.06"
+  },
+  {
+    "id": 316,
+    "pokemon": "Schluppuck",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 317,
+    "pokemon": "Schlukwech",
+    "rarity": "Common",
+    "preis": "0.29"
+  },
+  {
+    "id": 318,
+    "pokemon": "Kanivanha",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 319,
+    "pokemon": "Tohaido",
+    "rarity": "Uncommon",
+    "preis": "1.51"
+  },
+  {
+    "id": 320,
+    "pokemon": "Wailmer",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 321,
+    "pokemon": "Wailord",
+    "rarity": "Uncommon",
+    "preis": "0.53"
+  },
+  {
+    "id": 322,
+    "pokemon": "Camaub",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 323,
+    "pokemon": "Camerupt",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 324,
+    "pokemon": "Qurtel",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 325,
+    "pokemon": "Spoink",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 326,
+    "pokemon": "Groink",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 327,
+    "pokemon": "Pandir",
+    "rarity": "Common",
+    "preis": "0.07"
+  },
+  {
+    "id": 328,
+    "pokemon": "Knacklion",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 329,
+    "pokemon": "Vibrava",
+    "rarity": "Uncommon",
+    "preis": "1.01"
+  },
+  {
+    "id": 330,
+    "pokemon": "Libelldra",
+    "rarity": "Rare",
+    "preis": "3.33"
+  },
+  {
+    "id": 331,
+    "pokemon": "Tuska",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 332,
+    "pokemon": "Noktuska",
+    "rarity": "Uncommon",
+    "preis": "0.61"
+  },
+  {
+    "id": 333,
+    "pokemon": "Wablu",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 334,
+    "pokemon": "Altaria",
+    "rarity": "Uncommon",
+    "preis": "0.60"
+  },
+  {
+    "id": 335,
+    "pokemon": "Sengo",
+    "rarity": "Rare",
+    "preis": "3.06"
+  },
+  {
+    "id": 336,
+    "pokemon": "Vipitis",
+    "rarity": "Uncommon",
+    "preis": "0.90"
+  },
+  {
+    "id": 337,
+    "pokemon": "Lunastein",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 338,
+    "pokemon": "Sonnfel",
+    "rarity": "Uncommon",
+    "preis": "0.64"
+  },
+  {
+    "id": 339,
+    "pokemon": "Schmerbe",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 340,
+    "pokemon": "Welsar",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 341,
+    "pokemon": "Krebscorps",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 342,
+    "pokemon": "Krebutack",
+    "rarity": "Uncommon",
+    "preis": "1.65"
+  },
+  {
+    "id": 343,
+    "pokemon": "Puppance",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 344,
+    "pokemon": "Lepumentas",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 345,
+    "pokemon": "Liliep",
+    "rarity": "Uncommon",
+    "preis": "0.85"
+  },
+  {
+    "id": 346,
+    "pokemon": "Wielie",
+    "rarity": "Uncommon",
+    "preis": "2.17"
+  },
+  {
+    "id": 347,
+    "pokemon": "Anorith",
+    "rarity": "Uncommon",
+    "preis": "0.83"
+  },
+  {
+    "id": 348,
+    "pokemon": "Armaldo",
+    "rarity": "Uncommon",
+    "preis": "1.87"
+  },
+  {
+    "id": 349,
+    "pokemon": "Barschwa",
+    "rarity": "Uncommon",
+    "preis": "1.93"
+  },
+  {
+    "id": 350,
+    "pokemon": "Milotic",
+    "rarity": "Rare",
+    "preis": "7.54"
+  },
+  {
+    "id": 351,
+    "pokemon": "Formeo",
+    "rarity": "Common",
+    "preis": "0.05"
+  },
+  {
+    "id": 352,
+    "pokemon": "Kecleon",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 353,
+    "pokemon": "Shuppet",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 354,
+    "pokemon": "Banette",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 355,
+    "pokemon": "Zwirrlicht",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 356,
+    "pokemon": "Zwirrklop",
+    "rarity": "Uncommon",
+    "preis": "1.09"
+  },
+  {
+    "id": 357,
+    "pokemon": "Tropius",
+    "rarity": "Uncommon",
+    "preis": "0.59"
+  },
+  {
+    "id": 358,
+    "pokemon": "Palimpalim",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 359,
+    "pokemon": "Absol",
+    "rarity": "Rare",
+    "preis": "2.84"
+  },
+  {
+    "id": 360,
+    "pokemon": "Isso",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 361,
+    "pokemon": "Schneppke",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 362,
+    "pokemon": "Firnontor",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 363,
+    "pokemon": "Seemops",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 364,
+    "pokemon": "Seejong",
+    "rarity": "Common",
+    "preis": "0.31"
+  },
+  {
+    "id": 365,
+    "pokemon": "Walraisa",
+    "rarity": "Uncommon",
+    "preis": "1.04"
+  },
+  {
+    "id": 366,
+    "pokemon": "Perlu",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 367,
+    "pokemon": "Aalabyss",
+    "rarity": "Uncommon",
+    "preis": "1.60"
+  },
+  {
+    "id": 368,
+    "pokemon": "Saganabyss",
+    "rarity": "Uncommon",
+    "preis": "1.51"
+  },
+  {
+    "id": 369,
+    "pokemon": "Relicanth",
+    "rarity": "Uncommon",
+    "preis": "1.01"
+  },
+  {
+    "id": 370,
+    "pokemon": "Liebiskus",
+    "rarity": "Common",
+    "preis": "0.03"
+  },
+  {
+    "id": 371,
+    "pokemon": "Kindwurm",
+    "rarity": "Uncommon",
+    "preis": "2.07"
+  },
+  {
+    "id": 372,
+    "pokemon": "Draschel",
+    "rarity": "Rare",
+    "preis": "4.86"
+  },
+  {
+    "id": 373,
+    "pokemon": "Brutalanda",
+    "rarity": "Epic",
+    "preis": "42.25"
+  },
+  {
+    "id": 374,
+    "pokemon": "Tanhel",
+    "rarity": "Uncommon",
+    "preis": "1.99"
+  },
+  {
+    "id": 375,
+    "pokemon": "Metang",
+    "rarity": "Rare",
+    "preis": "4.61"
+  },
+  {
+    "id": 376,
+    "pokemon": "Metagross",
+    "rarity": "Epic",
+    "preis": "43.00"
+  },
+  {
+    "id": 377,
+    "pokemon": "Regirock",
+    "rarity": "Legendary",
+    "preis": "1568.00"
+  },
+  {
+    "id": 378,
+    "pokemon": "Regice",
+    "rarity": "Legendary",
+    "preis": "1256.00"
+  },
+  {
+    "id": 379,
+    "pokemon": "Registeel",
+    "rarity": "Legendary",
+    "preis": "1578.00"
+  },
+  {
+    "id": 380,
+    "pokemon": "Latias",
+    "rarity": "Legendary",
+    "preis": "2078.00"
+  },
+  {
+    "id": 381,
+    "pokemon": "Latios",
+    "rarity": "Legendary",
+    "preis": "2065.00"
+  },
+  {
+    "id": 382,
+    "pokemon": "Kyogre",
+    "rarity": "Mythic",
+    "preis": "7312.00"
+  },
+  {
+    "id": 383,
+    "pokemon": "Groudon",
+    "rarity": "Mythic",
+    "preis": "7450.00"
+  },
+  {
+    "id": 384,
+    "pokemon": "Rayquaza",
+    "rarity": "Secret Rare",
+    "preis": "13450.00"
+  },
+  {
+    "id": 385,
+    "pokemon": "Jirachi",
+    "rarity": "Mythic",
+    "preis": "3658.00"
+  },
+  {
+    "id": 386,
+    "pokemon": "Deoxys",
+    "rarity": "Mythic",
+    "preis": "4006.00"
+  },
+  {
+    "id": 387,
+    "pokemon": "Chelast",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 388,
+    "pokemon": "Chelcarain",
+    "rarity": "Uncommon",
+    "preis": "0.93"
+  },
+  {
+    "id": 389,
+    "pokemon": "Chelterrar",
+    "rarity": "Rare",
+    "preis": "3.15"
+  },
+  {
+    "id": 390,
+    "pokemon": "Panflam",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 391,
+    "pokemon": "Panpyro",
+    "rarity": "Uncommon",
+    "preis": "1.13"
+  },
+  {
+    "id": 392,
+    "pokemon": "Panferno",
+    "rarity": "Rare",
+    "preis": "3.31"
+  },
+  {
+    "id": 393,
+    "pokemon": "Plinfa",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 394,
+    "pokemon": "Pliprin",
+    "rarity": "Uncommon",
+    "preis": "0.97"
+  },
+  {
+    "id": 395,
+    "pokemon": "Impoleon",
+    "rarity": "Rare",
+    "preis": "2.94"
+  },
+  {
+    "id": 396,
+    "pokemon": "Staralili",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 397,
+    "pokemon": "Staravia",
+    "rarity": "Uncommon",
+    "preis": "1.08"
+  },
+  {
+    "id": 398,
+    "pokemon": "Staraptor",
+    "rarity": "Rare",
+    "preis": "3.05"
+  },
+  {
+    "id": 399,
+    "pokemon": "Bidiza",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 400,
+    "pokemon": "Bidifas",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 401,
+    "pokemon": "Zirpurze",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 402,
+    "pokemon": "Zirpeise",
+    "rarity": "Common",
+    "preis": "0.29"
+  },
+  {
+    "id": 403,
+    "pokemon": "Sheinux",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 404,
+    "pokemon": "Luxio",
+    "rarity": "Common",
+    "preis": "0.32"
+  },
+  {
+    "id": 405,
+    "pokemon": "Luxtra",
+    "rarity": "Uncommon",
+    "preis": "1.07"
+  },
+  {
+    "id": 406,
+    "pokemon": "Knospi",
+    "rarity": "Common",
+    "preis": "0.32"
+  },
+  {
+    "id": 407,
+    "pokemon": "Roserade",
+    "rarity": "Rare",
+    "preis": "3.10"
+  },
+  {
+    "id": 408,
+    "pokemon": "Koknodon",
+    "rarity": "Common",
+    "preis": "0.32"
+  },
+  {
+    "id": 409,
+    "pokemon": "Rameidon",
+    "rarity": "Uncommon",
+    "preis": "0.79"
+  },
+  {
+    "id": 410,
+    "pokemon": "Schilterus",
+    "rarity": "Uncommon",
+    "preis": "0.77"
+  },
+  {
+    "id": 411,
+    "pokemon": "Bollterus",
+    "rarity": "Uncommon",
+    "preis": "1.91"
+  },
+  {
+    "id": 412,
+    "pokemon": "Burmy",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 413,
+    "pokemon": "Burmadame",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 414,
+    "pokemon": "Moterpel",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 415,
+    "pokemon": "Wadribie",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 416,
+    "pokemon": "Honweisel",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 417,
+    "pokemon": "Pachirisu",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 418,
+    "pokemon": "Bamelin",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 419,
+    "pokemon": "Bojelin",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 420,
+    "pokemon": "Kikugi",
+    "rarity": "Common",
+    "preis": "0.03"
+  },
+  {
+    "id": 421,
+    "pokemon": "Kinoso",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 422,
+    "pokemon": "Schalellos",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 423,
+    "pokemon": "Gastrodon",
+    "rarity": "Uncommon",
+    "preis": "1.46"
+  },
+  {
+    "id": 424,
+    "pokemon": "Ambidiffel",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 425,
+    "pokemon": "Driftlon",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 426,
+    "pokemon": "Drifzepeli",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 427,
+    "pokemon": "Haspiror",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 428,
+    "pokemon": "Schlapor",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 429,
+    "pokemon": "Traunmagil",
+    "rarity": "Uncommon",
+    "preis": "1.55"
+  },
+  {
+    "id": 430,
+    "pokemon": "Kramshef",
+    "rarity": "Uncommon",
+    "preis": "1.57"
+  },
+  {
+    "id": 431,
+    "pokemon": "Charmian",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 432,
+    "pokemon": "Shnurgarst",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 433,
+    "pokemon": "Klingplim",
+    "rarity": "Common",
+    "preis": "0.16"
+  },
+  {
+    "id": 434,
+    "pokemon": "Skunkapuh",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 435,
+    "pokemon": "Skuntank",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 436,
+    "pokemon": "Bronzel",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 437,
+    "pokemon": "Bronzong",
+    "rarity": "Uncommon",
+    "preis": "1.40"
+  },
+  {
+    "id": 438,
+    "pokemon": "Mobai",
+    "rarity": "Common",
+    "preis": "0.17"
+  },
+  {
+    "id": 439,
+    "pokemon": "Pantimimi",
+    "rarity": "Common",
+    "preis": "0.15"
+  },
+  {
+    "id": 440,
+    "pokemon": "Wonneira",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 441,
+    "pokemon": "Plaudagei",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 442,
+    "pokemon": "Kryppuk",
+    "rarity": "Rare",
+    "preis": "2.86"
+  },
+  {
+    "id": 443,
+    "pokemon": "Kaumalat",
+    "rarity": "Uncommon",
+    "preis": "2.05"
+  },
+  {
+    "id": 444,
+    "pokemon": "Knarksel",
+    "rarity": "Rare",
+    "preis": "5.43"
+  },
+  {
+    "id": 445,
+    "pokemon": "Knakrack",
+    "rarity": "Epic",
+    "preis": "53.25"
+  },
+  {
+    "id": 446,
+    "pokemon": "Mampfaxo",
+    "rarity": "Uncommon",
+    "preis": "1.53"
+  },
+  {
+    "id": 447,
+    "pokemon": "Riolu",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 448,
+    "pokemon": "Lucario",
+    "rarity": "Rare",
+    "preis": "8.68"
+  },
+  {
+    "id": 449,
+    "pokemon": "Hippopotas",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 450,
+    "pokemon": "Hippoterus",
+    "rarity": "Uncommon",
+    "preis": "1.52"
+  },
+  {
+    "id": 451,
+    "pokemon": "Pionskora",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 452,
+    "pokemon": "Piondragi",
+    "rarity": "Uncommon",
+    "preis": "1.50"
+  },
+  {
+    "id": 453,
+    "pokemon": "Glibunkel",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 454,
+    "pokemon": "Toxiquak",
+    "rarity": "Uncommon",
+    "preis": "0.61"
+  },
+  {
+    "id": 455,
+    "pokemon": "Venuflibis",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 456,
+    "pokemon": "Finneon",
+    "rarity": "Common",
+    "preis": "0.05"
+  },
+  {
+    "id": 457,
+    "pokemon": "Lumineon",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 458,
+    "pokemon": "Mantirps",
+    "rarity": "Common",
+    "preis": "0.16"
+  },
+  {
+    "id": 459,
+    "pokemon": "Shnebedeck",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 460,
+    "pokemon": "Rexblisar",
+    "rarity": "Uncommon",
+    "preis": "0.61"
+  },
+  {
+    "id": 461,
+    "pokemon": "Snibunna",
+    "rarity": "Rare",
+    "preis": "7.55"
+  },
+  {
+    "id": 462,
+    "pokemon": "Magnezone",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 463,
+    "pokemon": "Schlurplek",
+    "rarity": "Uncommon",
+    "preis": "1.83"
+  },
+  {
+    "id": 464,
+    "pokemon": "Rihornior",
+    "rarity": "Epic",
+    "preis": "15.25"
+  },
+  {
+    "id": 465,
+    "pokemon": "Tangoloss",
+    "rarity": "Uncommon",
+    "preis": "1.55"
+  },
+  {
+    "id": 466,
+    "pokemon": "Elevoltek",
+    "rarity": "Rare",
+    "preis": "3.22"
+  },
+  {
+    "id": 467,
+    "pokemon": "Magbrant",
+    "rarity": "Rare",
+    "preis": "3.14"
+  },
+  {
+    "id": 468,
+    "pokemon": "Togekiss",
+    "rarity": "Rare",
+    "preis": "3.17"
+  },
+  {
+    "id": 469,
+    "pokemon": "Yanmega",
+    "rarity": "Uncommon",
+    "preis": "1.55"
+  },
+  {
+    "id": 470,
+    "pokemon": "Folipurba",
+    "rarity": "Uncommon",
+    "preis": "1.81"
+  },
+  {
+    "id": 471,
+    "pokemon": "Glaziola",
+    "rarity": "Uncommon",
+    "preis": "1.86"
+  },
+  {
+    "id": 472,
+    "pokemon": "Skorgro",
+    "rarity": "Uncommon",
+    "preis": "1.38"
+  },
+  {
+    "id": 473,
+    "pokemon": "Mamutel",
+    "rarity": "Rare",
+    "preis": "3.28"
+  },
+  {
+    "id": 474,
+    "pokemon": "Porygon-Z",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 475,
+    "pokemon": "Galagladi",
+    "rarity": "Epic",
+    "preis": "15.25"
+  },
+  {
+    "id": 476,
+    "pokemon": "Voluminas",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 477,
+    "pokemon": "Zwirrfinst",
+    "rarity": "Rare",
+    "preis": "3.07"
+  },
+  {
+    "id": 478,
+    "pokemon": "Frosdedje",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 479,
+    "pokemon": "Rotom",
+    "rarity": "Rare",
+    "preis": "2.94"
+  },
+  {
+    "id": 480,
+    "pokemon": "Selfe",
+    "rarity": "Legendary",
+    "preis": "1302.00"
+  },
+  {
+    "id": 481,
+    "pokemon": "Vesprit",
+    "rarity": "Legendary",
+    "preis": "1237.00"
+  },
+  {
+    "id": 482,
+    "pokemon": "Tobutz",
+    "rarity": "Legendary",
+    "preis": "1603.00"
+  },
+  {
+    "id": 483,
+    "pokemon": "Dialga",
+    "rarity": "Mythic",
+    "preis": "3478.00"
+  },
+  {
+    "id": 484,
+    "pokemon": "Palkia",
+    "rarity": "Mythic",
+    "preis": "3502.00"
+  },
+  {
+    "id": 485,
+    "pokemon": "Heatran",
+    "rarity": "Legendary",
+    "preis": "2098.00"
+  },
+  {
+    "id": 486,
+    "pokemon": "Regigigas",
+    "rarity": "Legendary",
+    "preis": "2045.00"
+  },
+  {
+    "id": 487,
+    "pokemon": "Giratina",
+    "rarity": "Mythic",
+    "preis": "3520.00"
+  },
+  {
+    "id": 488,
+    "pokemon": "Cresselia",
+    "rarity": "Legendary",
+    "preis": "1697.00"
+  },
+  {
+    "id": 489,
+    "pokemon": "Phione",
+    "rarity": "Legendary",
+    "preis": "1845.00"
+  },
+  {
+    "id": 490,
+    "pokemon": "Manaphy",
+    "rarity": "Mythic",
+    "preis": "4863.00"
+  },
+  {
+    "id": 491,
+    "pokemon": "Darkrai",
+    "rarity": "Mythic",
+    "preis": "4455.00"
+  },
+  {
+    "id": 492,
+    "pokemon": "Shaymin",
+    "rarity": "Mythic",
+    "preis": "3642.00"
+  },
+  {
+    "id": 493,
+    "pokemon": "Arceus",
+    "rarity": "Secret Rare",
+    "preis": "15457.00"
+  },
+  {
+    "id": 494,
+    "pokemon": "Victini",
+    "rarity": "Mythic",
+    "preis": "3786.00"
+  },
+  {
+    "id": 495,
+    "pokemon": "Serpifeu",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 496,
+    "pokemon": "Efoserp",
+    "rarity": "Uncommon",
+    "preis": "0.94"
+  },
+  {
+    "id": 497,
+    "pokemon": "Serpiroyal",
+    "rarity": "Rare",
+    "preis": "3.39"
+  },
+  {
+    "id": 498,
+    "pokemon": "Floink",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 499,
+    "pokemon": "Ferkokel",
+    "rarity": "Uncommon",
+    "preis": "1.06"
+  },
+  {
+    "id": 500,
+    "pokemon": "Flambirex",
+    "rarity": "Rare",
+    "preis": "3.17"
+  },
+  {
+    "id": 501,
+    "pokemon": "Ottaro",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 502,
+    "pokemon": "Zwottronin",
+    "rarity": "Uncommon",
+    "preis": "1.03"
+  },
+  {
+    "id": 503,
+    "pokemon": "Admurai",
+    "rarity": "Rare",
+    "preis": "3.13"
+  },
+  {
+    "id": 504,
+    "pokemon": "Nagelotz",
+    "rarity": "Common",
+    "preis": "0.05"
+  },
+  {
+    "id": 505,
+    "pokemon": "Kukmarda",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 506,
+    "pokemon": "Yorkleff",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 507,
+    "pokemon": "Terribark",
+    "rarity": "Uncommon",
+    "preis": "1.02"
+  },
+  {
+    "id": 508,
+    "pokemon": "Bissbark",
+    "rarity": "Rare",
+    "preis": "2.96"
+  },
+  {
+    "id": 509,
+    "pokemon": "Felilou",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 510,
+    "pokemon": "Kleoparda",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 511,
+    "pokemon": "Vegimak",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 512,
+    "pokemon": "Vegichita",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 513,
+    "pokemon": "Grillmak",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 514,
+    "pokemon": "Grillchita",
+    "rarity": "Uncommon",
+    "preis": "0.61"
+  },
+  {
+    "id": 515,
+    "pokemon": "Sodamak",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 516,
+    "pokemon": "Sodachita",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 517,
+    "pokemon": "Somniam",
+    "rarity": "Common",
+    "preis": "0.18"
+  },
+  {
+    "id": 518,
+    "pokemon": "Somnivora",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 519,
+    "pokemon": "Dusselgurr",
+    "rarity": "Common",
+    "preis": "0.04"
+  },
+  {
+    "id": 520,
+    "pokemon": "Navitaub",
+    "rarity": "Common",
+    "preis": "0.17"
+  },
+  {
+    "id": 521,
+    "pokemon": "Fasasnob",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 522,
+    "pokemon": "Elezeba",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 523,
+    "pokemon": "Zebritz",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 524,
+    "pokemon": "Kiesling",
+    "rarity": "Uncommon",
+    "preis": "0.40"
+  },
+  {
+    "id": 525,
+    "pokemon": "Sedimantur",
+    "rarity": "Uncommon",
+    "preis": "1.00"
+  },
+  {
+    "id": 526,
+    "pokemon": "Brockoloss",
+    "rarity": "Rare",
+    "preis": "3.19"
+  },
+  {
+    "id": 527,
+    "pokemon": "Fleknoil",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 528,
+    "pokemon": "Fletiamo",
+    "rarity": "Uncommon",
+    "preis": "1.37"
+  },
+  {
+    "id": 529,
+    "pokemon": "Rotomurf",
+    "rarity": "Uncommon",
+    "preis": "1.91"
+  },
+  {
+    "id": 530,
+    "pokemon": "Stalobor",
+    "rarity": "Rare",
+    "preis": "7.43"
+  },
+  {
+    "id": 531,
+    "pokemon": "Ohrdoch",
+    "rarity": "Uncommon",
+    "preis": "0.94"
+  },
+  {
+    "id": 532,
+    "pokemon": "Praktibalk",
+    "rarity": "Uncommon",
+    "preis": "2.20"
+  },
+  {
+    "id": 533,
+    "pokemon": "Strepoli",
+    "rarity": "Rare",
+    "preis": "5.45"
+  },
+  {
+    "id": 534,
+    "pokemon": "Meistagrif",
+    "rarity": "Epic",
+    "preis": "15.25"
+  },
+  {
+    "id": 535,
+    "pokemon": "Schallquap",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 536,
+    "pokemon": "Mebrana",
+    "rarity": "Uncommon",
+    "preis": "0.98"
+  },
+  {
+    "id": 537,
+    "pokemon": "Branawarz",
+    "rarity": "Rare",
+    "preis": "3.07"
+  },
+  {
+    "id": 538,
+    "pokemon": "Jiutesto",
+    "rarity": "Rare",
+    "preis": "2.88"
+  },
+  {
+    "id": 539,
+    "pokemon": "Karadonis",
+    "rarity": "Rare",
+    "preis": "2.82"
+  },
+  {
+    "id": 540,
+    "pokemon": "Strawickl",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 541,
+    "pokemon": "Folikon",
+    "rarity": "Common",
+    "preis": "0.29"
+  },
+  {
+    "id": 542,
+    "pokemon": "Matrifol",
+    "rarity": "Uncommon",
+    "preis": "1.25"
+  },
+  {
+    "id": 543,
+    "pokemon": "Toxiped",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 544,
+    "pokemon": "Rollum",
+    "rarity": "Uncommon",
+    "preis": "1.02"
+  },
+  {
+    "id": 545,
+    "pokemon": "Cerapendra",
+    "rarity": "Rare",
+    "preis": "3.31"
+  },
+  {
+    "id": 546,
+    "pokemon": "Waumboll",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 547,
+    "pokemon": "Elfun",
+    "rarity": "Uncommon",
+    "preis": "1.39"
+  },
+  {
+    "id": 548,
+    "pokemon": "Lilminip",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 549,
+    "pokemon": "Dressella",
+    "rarity": "Uncommon",
+    "preis": "1.51"
+  },
+  {
+    "id": 550,
+    "pokemon": "Barschuft",
+    "rarity": "Uncommon",
+    "preis": "1.91"
+  },
+  {
+    "id": 551,
+    "pokemon": "Ganovil",
+    "rarity": "Uncommon",
+    "preis": "1.92"
+  },
+  {
+    "id": 552,
+    "pokemon": "Rokkaiman",
+    "rarity": "Rare",
+    "preis": "5.04"
+  },
+  {
+    "id": 553,
+    "pokemon": "Rabigator",
+    "rarity": "Epic",
+    "preis": "15.75"
+  },
+  {
+    "id": 554,
+    "pokemon": "Flampion",
+    "rarity": "Uncommon",
+    "preis": "1.83"
+  },
+  {
+    "id": 555,
+    "pokemon": "Flampivian",
+    "rarity": "Rare",
+    "preis": "8.24"
+  },
+  {
+    "id": 556,
+    "pokemon": "Maracamba",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 557,
+    "pokemon": "Lithomith",
+    "rarity": "Uncommon",
+    "preis": "0.42"
+  },
+  {
+    "id": 558,
+    "pokemon": "Castellith",
+    "rarity": "Uncommon",
+    "preis": "1.57"
+  },
+  {
+    "id": 559,
+    "pokemon": "Zurrokex",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 560,
+    "pokemon": "Irokex",
+    "rarity": "Uncommon",
+    "preis": "1.57"
+  },
+  {
+    "id": 561,
+    "pokemon": "Symvolara",
+    "rarity": "Rare",
+    "preis": "3.07"
+  },
+  {
+    "id": 562,
+    "pokemon": "Makabaja",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 563,
+    "pokemon": "Echnatoll",
+    "rarity": "Uncommon",
+    "preis": "1.30"
+  },
+  {
+    "id": 564,
+    "pokemon": "Galapaflos",
+    "rarity": "Uncommon",
+    "preis": "0.79"
+  },
+  {
+    "id": 565,
+    "pokemon": "Karippas",
+    "rarity": "Uncommon",
+    "preis": "1.69"
+  },
+  {
+    "id": 566,
+    "pokemon": "Flapteryx",
+    "rarity": "Uncommon",
+    "preis": "0.78"
+  },
+  {
+    "id": 567,
+    "pokemon": "Aeropteryx",
+    "rarity": "Uncommon",
+    "preis": "1.70"
+  },
+  {
+    "id": 568,
+    "pokemon": "Unratütox",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 569,
+    "pokemon": "Deponitox",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 570,
+    "pokemon": "Zorua",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 571,
+    "pokemon": "Zoroark",
+    "rarity": "Uncommon",
+    "preis": "1.44"
+  },
+  {
+    "id": 572,
+    "pokemon": "Picochilla",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 573,
+    "pokemon": "Chillabell",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 574,
+    "pokemon": "Mollimorba",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 575,
+    "pokemon": "Hypnomorba",
+    "rarity": "Uncommon",
+    "preis": "1.05"
+  },
+  {
+    "id": 576,
+    "pokemon": "Morbitesse",
+    "rarity": "Rare",
+    "preis": "3.30"
+  },
+  {
+    "id": 577,
+    "pokemon": "Monozyto",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 578,
+    "pokemon": "Mitodos",
+    "rarity": "Uncommon",
+    "preis": "0.98"
+  },
+  {
+    "id": 579,
+    "pokemon": "Zytomega",
+    "rarity": "Rare",
+    "preis": "3.40"
+  },
+  {
+    "id": 580,
+    "pokemon": "Piccolente",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 581,
+    "pokemon": "Swaroness",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 582,
+    "pokemon": "Gelatini",
+    "rarity": "Uncommon",
+    "preis": "0.41"
+  },
+  {
+    "id": 583,
+    "pokemon": "Gelatroppo",
+    "rarity": "Uncommon",
+    "preis": "0.97"
+  },
+  {
+    "id": 584,
+    "pokemon": "Gelatwino",
+    "rarity": "Rare",
+    "preis": "3.30"
+  },
+  {
+    "id": 585,
+    "pokemon": "Sesokitz",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 586,
+    "pokemon": "Kronjuwild",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 587,
+    "pokemon": "Emolga",
+    "rarity": "Common",
+    "preis": "0.27"
+  },
+  {
+    "id": 588,
+    "pokemon": "Laukaps",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 589,
+    "pokemon": "Cavalanzas",
+    "rarity": "Uncommon",
+    "preis": "1.56"
+  },
+  {
+    "id": 590,
+    "pokemon": "Tarnpignon",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 591,
+    "pokemon": "Hutsassa",
+    "rarity": "Uncommon",
+    "preis": "1.37"
+  },
+  {
+    "id": 592,
+    "pokemon": "Quabbel",
+    "rarity": "Uncommon",
+    "preis": "0.41"
+  },
+  {
+    "id": 593,
+    "pokemon": "Apoquallyp",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 594,
+    "pokemon": "Mamolida",
+    "rarity": "Uncommon",
+    "preis": "0.94"
+  },
+  {
+    "id": 595,
+    "pokemon": "Wattzapf",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 596,
+    "pokemon": "Voltula",
+    "rarity": "Uncommon",
+    "preis": "1.47"
+  },
+  {
+    "id": 597,
+    "pokemon": "Kastadur",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 598,
+    "pokemon": "Tentantel",
+    "rarity": "Uncommon",
+    "preis": "1.68"
+  },
+  {
+    "id": 599,
+    "pokemon": "Klikk",
+    "rarity": "Uncommon",
+    "preis": "0.53"
+  },
+  {
+    "id": 600,
+    "pokemon": "Kliklak",
+    "rarity": "Uncommon",
+    "preis": "1.06"
+  },
+  {
+    "id": 601,
+    "pokemon": "Klikdiklak",
+    "rarity": "Rare",
+    "preis": "3.11"
+  },
+  {
+    "id": 602,
+    "pokemon": "Zapplardin",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 603,
+    "pokemon": "Zapplalek",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 604,
+    "pokemon": "Zapplarang",
+    "rarity": "Uncommon",
+    "preis": "1.11"
+  },
+  {
+    "id": 605,
+    "pokemon": "Pygraulon",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 606,
+    "pokemon": "Megalon",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 607,
+    "pokemon": "Lichtel",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 608,
+    "pokemon": "Laternecto",
+    "rarity": "Uncommon",
+    "preis": "1.03"
+  },
+  {
+    "id": 609,
+    "pokemon": "Skelabra",
+    "rarity": "Rare",
+    "preis": "3.13"
+  },
+  {
+    "id": 610,
+    "pokemon": "Milza",
+    "rarity": "Uncommon",
+    "preis": "1.94"
+  },
+  {
+    "id": 611,
+    "pokemon": "Sharfax",
+    "rarity": "Rare",
+    "preis": "5.32"
+  },
+  {
+    "id": 612,
+    "pokemon": "Maxax",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 613,
+    "pokemon": "Petznief",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 614,
+    "pokemon": "Siberio",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 615,
+    "pokemon": "Frigometri",
+    "rarity": "Rare",
+    "preis": "3.09"
+  },
+  {
+    "id": 616,
+    "pokemon": "Schnuthelm",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 617,
+    "pokemon": "Hydragil",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 618,
+    "pokemon": "Flunschlik",
+    "rarity": "Uncommon",
+    "preis": "0.67"
+  },
+  {
+    "id": 619,
+    "pokemon": "Lin-Fu",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 620,
+    "pokemon": "Wie-Shu",
+    "rarity": "Uncommon",
+    "preis": "1.56"
+  },
+  {
+    "id": 621,
+    "pokemon": "Shardrago",
+    "rarity": "Rare",
+    "preis": "2.72"
+  },
+  {
+    "id": 622,
+    "pokemon": "Golbit",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 623,
+    "pokemon": "Golgantes",
+    "rarity": "Uncommon",
+    "preis": "1.38"
+  },
+  {
+    "id": 624,
+    "pokemon": "Gladiantri",
+    "rarity": "Uncommon",
+    "preis": "2.04"
+  },
+  {
+    "id": 625,
+    "pokemon": "Caesurio",
+    "rarity": "Rare",
+    "preis": "5.10"
+  },
+  {
+    "id": 626,
+    "pokemon": "Bisofank",
+    "rarity": "Rare",
+    "preis": "2.56"
+  },
+  {
+    "id": 627,
+    "pokemon": "Geronimatz",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 628,
+    "pokemon": "Washakwil",
+    "rarity": "Uncommon",
+    "preis": "1.57"
+  },
+  {
+    "id": 629,
+    "pokemon": "Skallyk",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 630,
+    "pokemon": "Grypheldis",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 631,
+    "pokemon": "Furnifraß",
+    "rarity": "Uncommon",
+    "preis": "0.92"
+  },
+  {
+    "id": 632,
+    "pokemon": "Fermicula",
+    "rarity": "Rare",
+    "preis": "2.87"
+  },
+  {
+    "id": 633,
+    "pokemon": "Kapuno",
+    "rarity": "Uncommon",
+    "preis": "2.00"
+  },
+  {
+    "id": 634,
+    "pokemon": "Duodino",
+    "rarity": "Rare",
+    "preis": "4.88"
+  },
+  {
+    "id": 635,
+    "pokemon": "Trikephalo",
+    "rarity": "Epic",
+    "preis": "15.75"
+  },
+  {
+    "id": 636,
+    "pokemon": "Ignivor",
+    "rarity": "Uncommon",
+    "preis": "1.83"
+  },
+  {
+    "id": 637,
+    "pokemon": "Ramoth",
+    "rarity": "Rare",
+    "preis": "7.91"
+  },
+  {
+    "id": 638,
+    "pokemon": "Kobalium",
+    "rarity": "Legendary",
+    "preis": "1682.00"
+  },
+  {
+    "id": 639,
+    "pokemon": "Terrakium",
+    "rarity": "Legendary",
+    "preis": "2054.00"
+  },
+  {
+    "id": 640,
+    "pokemon": "Viridium",
+    "rarity": "Legendary",
+    "preis": "1580.00"
+  },
+  {
+    "id": 641,
+    "pokemon": "Boreos",
+    "rarity": "Legendary",
+    "preis": "1600.00"
+  },
+  {
+    "id": 642,
+    "pokemon": "Voltolos",
+    "rarity": "Legendary",
+    "preis": "2134.00"
+  },
+  {
+    "id": 643,
+    "pokemon": "Reshiram",
+    "rarity": "Mythic",
+    "preis": "3615.00"
+  },
+  {
+    "id": 644,
+    "pokemon": "Zekrom",
+    "rarity": "Mythic",
+    "preis": "3632.00"
+  },
+  {
+    "id": 645,
+    "pokemon": "Demeteros",
+    "rarity": "Legendary",
+    "preis": "2215.00"
+  },
+  {
+    "id": 646,
+    "pokemon": "Kyurem",
+    "rarity": "Mythic",
+    "preis": "3636.00"
+  },
+  {
+    "id": 647,
+    "pokemon": "Keldeo",
+    "rarity": "Mythic",
+    "preis": "3812.00"
+  },
+  {
+    "id": 648,
+    "pokemon": "Meloetta",
+    "rarity": "Mythic",
+    "preis": "4562.00"
+  },
+  {
+    "id": 649,
+    "pokemon": "Genesect",
+    "rarity": "Mythic",
+    "preis": "3874.00"
+  },
+  {
+    "id": 650,
+    "pokemon": "Igamaro",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 651,
+    "pokemon": "Igastarnish",
+    "rarity": "Uncommon",
+    "preis": "1.15"
+  },
+  {
+    "id": 652,
+    "pokemon": "Brigaron",
+    "rarity": "Rare",
+    "preis": "3.24"
+  },
+  {
+    "id": 653,
+    "pokemon": "Fynx",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 654,
+    "pokemon": "Rutena",
+    "rarity": "Uncommon",
+    "preis": "1.09"
+  },
+  {
+    "id": 655,
+    "pokemon": "Fennexis",
+    "rarity": "Rare",
+    "preis": "3.30"
+  },
+  {
+    "id": 656,
+    "pokemon": "Froxy",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 657,
+    "pokemon": "Amphizel",
+    "rarity": "Rare",
+    "preis": "3.27"
+  },
+  {
+    "id": 658,
+    "pokemon": "Quajutsu",
+    "rarity": "Epic",
+    "preis": "45.75"
+  },
+  {
+    "id": 659,
+    "pokemon": "Scoppel",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 660,
+    "pokemon": "Grebbit",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 661,
+    "pokemon": "Dartiri",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 662,
+    "pokemon": "Dartignis",
+    "rarity": "Uncommon",
+    "preis": "1.16"
+  },
+  {
+    "id": 663,
+    "pokemon": "Fiaro",
+    "rarity": "Rare",
+    "preis": "3.06"
+  },
+  {
+    "id": 664,
+    "pokemon": "Purmel",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 665,
+    "pokemon": "Puponcho",
+    "rarity": "Common",
+    "preis": "0.32"
+  },
+  {
+    "id": 666,
+    "pokemon": "Vivillon",
+    "rarity": "Uncommon",
+    "preis": "1.16"
+  },
+  {
+    "id": 667,
+    "pokemon": "Leufeo",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 668,
+    "pokemon": "Pyroleo",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 669,
+    "pokemon": "Flabébé",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 670,
+    "pokemon": "Floette",
+    "rarity": "Uncommon",
+    "preis": "1.04"
+  },
+  {
+    "id": 671,
+    "pokemon": "Florges",
+    "rarity": "Rare",
+    "preis": "3.34"
+  },
+  {
+    "id": 672,
+    "pokemon": "Mähikel",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 673,
+    "pokemon": "Chevrumm",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 674,
+    "pokemon": "Pam-Pam",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 675,
+    "pokemon": "Pandagro",
+    "rarity": "Uncommon",
+    "preis": "1.46"
+  },
+  {
+    "id": 676,
+    "pokemon": "Coiffwaff",
+    "rarity": "Uncommon",
+    "preis": "0.63"
+  },
+  {
+    "id": 677,
+    "pokemon": "Psiau",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 678,
+    "pokemon": "Psiaugon",
+    "rarity": "Uncommon",
+    "preis": "0.53"
+  },
+  {
+    "id": 679,
+    "pokemon": "Gramokles",
+    "rarity": "Uncommon",
+    "preis": "1.76"
+  },
+  {
+    "id": 680,
+    "pokemon": "Duokles",
+    "rarity": "Rare",
+    "preis": "5.20"
+  },
+  {
+    "id": 681,
+    "pokemon": "Durengard",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 682,
+    "pokemon": "Parfi",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 683,
+    "pokemon": "Parfinesse",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 684,
+    "pokemon": "Flauschling",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 685,
+    "pokemon": "Sabbaione",
+    "rarity": "Uncommon",
+    "preis": "1.53"
+  },
+  {
+    "id": 686,
+    "pokemon": "Iscalar",
+    "rarity": "Uncommon",
+    "preis": "0.41"
+  },
+  {
+    "id": 687,
+    "pokemon": "Calamanero",
+    "rarity": "Uncommon",
+    "preis": "1.70"
+  },
+  {
+    "id": 688,
+    "pokemon": "Bithora",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 689,
+    "pokemon": "Thanathora",
+    "rarity": "Uncommon",
+    "preis": "1.45"
+  },
+  {
+    "id": 690,
+    "pokemon": "Algitt",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 691,
+    "pokemon": "Tandrak",
+    "rarity": "Uncommon",
+    "preis": "0.59"
+  },
+  {
+    "id": 692,
+    "pokemon": "Scampisto",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 693,
+    "pokemon": "Wummer",
+    "rarity": "Uncommon",
+    "preis": "1.43"
+  },
+  {
+    "id": 694,
+    "pokemon": "Eguana",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 695,
+    "pokemon": "Elezard",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 696,
+    "pokemon": "Balgoras",
+    "rarity": "Uncommon",
+    "preis": "0.80"
+  },
+  {
+    "id": 697,
+    "pokemon": "Monargoras",
+    "rarity": "Uncommon",
+    "preis": "1.86"
+  },
+  {
+    "id": 698,
+    "pokemon": "Amarino",
+    "rarity": "Common",
+    "preis": "0.27"
+  },
+  {
+    "id": 699,
+    "pokemon": "Amagarga",
+    "rarity": "Uncommon",
+    "preis": "0.85"
+  },
+  {
+    "id": 700,
+    "pokemon": "Feelinara",
+    "rarity": "Rare",
+    "preis": "5.09"
+  },
+  {
+    "id": 701,
+    "pokemon": "Resladero",
+    "rarity": "Rare",
+    "preis": "3.06"
+  },
+  {
+    "id": 702,
+    "pokemon": "Dedenne",
+    "rarity": "Common",
+    "preis": "0.29"
+  },
+  {
+    "id": 703,
+    "pokemon": "Rocara",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 704,
+    "pokemon": "Viscora",
+    "rarity": "Uncommon",
+    "preis": "2.12"
+  },
+  {
+    "id": 705,
+    "pokemon": "Viscargot",
+    "rarity": "Rare",
+    "preis": "4.93"
+  },
+  {
+    "id": 706,
+    "pokemon": "Viscogon",
+    "rarity": "Epic",
+    "preis": "15.00"
+  },
+  {
+    "id": 707,
+    "pokemon": "Clavion",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 708,
+    "pokemon": "Paragoni",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 709,
+    "pokemon": "Trombork",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 710,
+    "pokemon": "Irrbis",
+    "rarity": "Common",
+    "preis": "0.17"
+  },
+  {
+    "id": 711,
+    "pokemon": "Pumpdjinn",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 712,
+    "pokemon": "Arktip",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 713,
+    "pokemon": "Arktilas",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 714,
+    "pokemon": "eF-eM",
+    "rarity": "Uncommon",
+    "preis": "0.77"
+  },
+  {
+    "id": 715,
+    "pokemon": "UHaFnir",
+    "rarity": "Uncommon",
+    "preis": "1.75"
+  },
+  {
+    "id": 716,
+    "pokemon": "Xerneas",
+    "rarity": "Mythic",
+    "preis": "3599.00"
+  },
+  {
+    "id": 717,
+    "pokemon": "Yveltal",
+    "rarity": "Mythic",
+    "preis": "3486.00"
+  },
+  {
+    "id": 718,
+    "pokemon": "Zygarde",
+    "rarity": "Mythic",
+    "preis": "3486.00"
+  },
+  {
+    "id": 719,
+    "pokemon": "Diancie",
+    "rarity": "Mythic",
+    "preis": "4716.00"
+  },
+  {
+    "id": 720,
+    "pokemon": "Hoopa",
+    "rarity": "Mythic",
+    "preis": "4432.00"
+  },
+  {
+    "id": 721,
+    "pokemon": "Volcanion",
+    "rarity": "Mythic",
+    "preis": "4920.00"
+  },
+  {
+    "id": 722,
+    "pokemon": "Bauz",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 723,
+    "pokemon": "Arboretoss",
+    "rarity": "Uncommon",
+    "preis": "1.15"
+  },
+  {
+    "id": 724,
+    "pokemon": "Silvarro",
+    "rarity": "Rare",
+    "preis": "3.28"
+  },
+  {
+    "id": 725,
+    "pokemon": "Flamiau",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 726,
+    "pokemon": "Miezunder",
+    "rarity": "Uncommon",
+    "preis": "1.06"
+  },
+  {
+    "id": 727,
+    "pokemon": "Fuegro",
+    "rarity": "Rare",
+    "preis": "3.12"
+  },
+  {
+    "id": 728,
+    "pokemon": "Robball",
+    "rarity": "Uncommon",
+    "preis": "1.45"
+  },
+  {
+    "id": 729,
+    "pokemon": "Marikeck",
+    "rarity": "Rare",
+    "preis": "3.43"
+  },
+  {
+    "id": 730,
+    "pokemon": "Primarene",
+    "rarity": "Rare",
+    "preis": "9.30"
+  },
+  {
+    "id": 731,
+    "pokemon": "Peppeck",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 732,
+    "pokemon": "Trompeck",
+    "rarity": "Common",
+    "preis": "0.32"
+  },
+  {
+    "id": 733,
+    "pokemon": "Tukanon",
+    "rarity": "Uncommon",
+    "preis": "1.10"
+  },
+  {
+    "id": 734,
+    "pokemon": "Mangunior",
+    "rarity": "Common",
+    "preis": "0.19"
+  },
+  {
+    "id": 735,
+    "pokemon": "Manguspektor",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 736,
+    "pokemon": "Mabula",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 737,
+    "pokemon": "Akkup",
+    "rarity": "Uncommon",
+    "preis": "1.12"
+  },
+  {
+    "id": 738,
+    "pokemon": "Donarion",
+    "rarity": "Rare",
+    "preis": "3.23"
+  },
+  {
+    "id": 739,
+    "pokemon": "Krabbox",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 740,
+    "pokemon": "Krawell",
+    "rarity": "Uncommon",
+    "preis": "1.53"
+  },
+  {
+    "id": 741,
+    "pokemon": "Choreogel",
+    "rarity": "Uncommon",
+    "preis": "0.62"
+  },
+  {
+    "id": 742,
+    "pokemon": "Wommel",
+    "rarity": "Uncommon",
+    "preis": "0.42"
+  },
+  {
+    "id": 743,
+    "pokemon": "Bandelby",
+    "rarity": "Uncommon",
+    "preis": "1.40"
+  },
+  {
+    "id": 744,
+    "pokemon": "Wuffels",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 745,
+    "pokemon": "Wolwerock",
+    "rarity": "Uncommon",
+    "preis": "1.50"
+  },
+  {
+    "id": 746,
+    "pokemon": "Lusardin",
+    "rarity": "Common",
+    "preis": "0.24"
+  },
+  {
+    "id": 747,
+    "pokemon": "Garstella",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 748,
+    "pokemon": "Aggrostella",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 749,
+    "pokemon": "Pampuli",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 750,
+    "pokemon": "Pampross",
+    "rarity": "Uncommon",
+    "preis": "1.51"
+  },
+  {
+    "id": 751,
+    "pokemon": "Araqua",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 752,
+    "pokemon": "Aranestro",
+    "rarity": "Uncommon",
+    "preis": "1.60"
+  },
+  {
+    "id": 753,
+    "pokemon": "Imantis",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 754,
+    "pokemon": "Mantidea",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 755,
+    "pokemon": "Bubungus",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 756,
+    "pokemon": "Lamellux",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 757,
+    "pokemon": "Molunk",
+    "rarity": "Uncommon",
+    "preis": "0.53"
+  },
+  {
+    "id": 758,
+    "pokemon": "Amfira",
+    "rarity": "Uncommon",
+    "preis": "1.58"
+  },
+  {
+    "id": 759,
+    "pokemon": "Velursi",
+    "rarity": "Uncommon",
+    "preis": "0.42"
+  },
+  {
+    "id": 760,
+    "pokemon": "Kosturso",
+    "rarity": "Uncommon",
+    "preis": "1.63"
+  },
+  {
+    "id": 761,
+    "pokemon": "Frubberl",
+    "rarity": "Uncommon",
+    "preis": "0.50"
+  },
+  {
+    "id": 762,
+    "pokemon": "Frubaila",
+    "rarity": "Uncommon",
+    "preis": "1.18"
+  },
+  {
+    "id": 763,
+    "pokemon": "Fruyal",
+    "rarity": "Rare",
+    "preis": "3.07"
+  },
+  {
+    "id": 764,
+    "pokemon": "Curelei",
+    "rarity": "Rare",
+    "preis": "3.06"
+  },
+  {
+    "id": 765,
+    "pokemon": "Kommandutan",
+    "rarity": "Rare",
+    "preis": "2.78"
+  },
+  {
+    "id": 766,
+    "pokemon": "Quartermak",
+    "rarity": "Rare",
+    "preis": "2.93"
+  },
+  {
+    "id": 767,
+    "pokemon": "Reißlaus",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 768,
+    "pokemon": "Tectass",
+    "rarity": "Uncommon",
+    "preis": "1.40"
+  },
+  {
+    "id": 769,
+    "pokemon": "Sankabuh",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 770,
+    "pokemon": "Colossand",
+    "rarity": "Uncommon",
+    "preis": "1.40"
+  },
+  {
+    "id": 771,
+    "pokemon": "Gufa",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 772,
+    "pokemon": "Typ:Null",
+    "rarity": "Legendary",
+    "preis": "1214.00"
+  },
+  {
+    "id": 773,
+    "pokemon": "Amigento",
+    "rarity": "Legendary",
+    "preis": "1249.00"
+  },
+  {
+    "id": 774,
+    "pokemon": "Meteno",
+    "rarity": "Rare",
+    "preis": "2.74"
+  },
+  {
+    "id": 775,
+    "pokemon": "Koalelu",
+    "rarity": "Uncommon",
+    "preis": "0.65"
+  },
+  {
+    "id": 776,
+    "pokemon": "Tortunator",
+    "rarity": "Rare",
+    "preis": "2.98"
+  },
+  {
+    "id": 777,
+    "pokemon": "Togedemaru",
+    "rarity": "Uncommon",
+    "preis": "0.63"
+  },
+  {
+    "id": 778,
+    "pokemon": "Mimigma",
+    "rarity": "Rare",
+    "preis": "7.85"
+  },
+  {
+    "id": 779,
+    "pokemon": "Knirfish",
+    "rarity": "Rare",
+    "preis": "2.82"
+  },
+  {
+    "id": 780,
+    "pokemon": "Sen-Long",
+    "rarity": "Rare",
+    "preis": "2.80"
+  },
+  {
+    "id": 781,
+    "pokemon": "Moruda",
+    "rarity": "Rare",
+    "preis": "3.05"
+  },
+  {
+    "id": 782,
+    "pokemon": "Miniras",
+    "rarity": "Uncommon",
+    "preis": "2.01"
+  },
+  {
+    "id": 783,
+    "pokemon": "Mediras",
+    "rarity": "Rare",
+    "preis": "4.87"
+  },
+  {
+    "id": 784,
+    "pokemon": "Grandiras",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 785,
+    "pokemon": "Kapu-Riki",
+    "rarity": "Legendary",
+    "preis": "1586.00"
+  },
+  {
+    "id": 786,
+    "pokemon": "Kapu-Fala",
+    "rarity": "Legendary",
+    "preis": "2080.00"
+  },
+  {
+    "id": 787,
+    "pokemon": "Kapu-Toro",
+    "rarity": "Legendary",
+    "preis": "1720.00"
+  },
+  {
+    "id": 788,
+    "pokemon": "Kapu-Kime",
+    "rarity": "Legendary",
+    "preis": "1554.00"
+  },
+  {
+    "id": 789,
+    "pokemon": "Cosmog",
+    "rarity": "Legendary",
+    "preis": "1967.00"
+  },
+  {
+    "id": 790,
+    "pokemon": "Cosmovum",
+    "rarity": "Legendary",
+    "preis": "2147.00"
+  },
+  {
+    "id": 791,
+    "pokemon": "Solgaleo",
+    "rarity": "Legendary",
+    "preis": "2445.00"
+  },
+  {
+    "id": 792,
+    "pokemon": "Lunala",
+    "rarity": "Legendary",
+    "preis": "2429.00"
+  },
+  {
+    "id": 793,
+    "pokemon": "Anego",
+    "rarity": "Epic",
+    "preis": "53.50"
+  },
+  {
+    "id": 794,
+    "pokemon": "Masskito",
+    "rarity": "Epic",
+    "preis": "52.00"
+  },
+  {
+    "id": 795,
+    "pokemon": "Schabelle",
+    "rarity": "Ultra Rare",
+    "preis": "244.00"
+  },
+  {
+    "id": 796,
+    "pokemon": "Voltriant",
+    "rarity": "Epic",
+    "preis": "61.75"
+  },
+  {
+    "id": 797,
+    "pokemon": "Kaguron",
+    "rarity": "Epic",
+    "preis": "59.75"
+  },
+  {
+    "id": 798,
+    "pokemon": "Katagami",
+    "rarity": "Legendary",
+    "preis": "1473.00"
+  },
+  {
+    "id": 799,
+    "pokemon": "Schlingking",
+    "rarity": "Epic",
+    "preis": "54.50"
+  },
+  {
+    "id": 800,
+    "pokemon": "Necrozma",
+    "rarity": "Mythic",
+    "preis": "3618.00"
+  },
+  {
+    "id": 801,
+    "pokemon": "Magearna",
+    "rarity": "Mythic",
+    "preis": "4375.00"
+  },
+  {
+    "id": 802,
+    "pokemon": "Marshadow",
+    "rarity": "Mythic",
+    "preis": "5973.00"
+  },
+  {
+    "id": 803,
+    "pokemon": "Venicro",
+    "rarity": "Ultra Rare",
+    "preis": "192.00"
+  },
+  {
+    "id": 804,
+    "pokemon": "Agoyon",
+    "rarity": "Legendary",
+    "preis": "650.00"
+  },
+  {
+    "id": 805,
+    "pokemon": "Muramura",
+    "rarity": "Epic",
+    "preis": "54.00"
+  },
+  {
+    "id": 806,
+    "pokemon": "Kopplosio",
+    "rarity": "Ultra Rare",
+    "preis": "231.00"
+  },
+  {
+    "id": 807,
+    "pokemon": "Zeraora",
+    "rarity": "Mythic",
+    "preis": "3569.00"
+  },
+  {
+    "id": 808,
+    "pokemon": "Meltan",
+    "rarity": "Mythic",
+    "preis": "3728.00"
+  },
+  {
+    "id": 809,
+    "pokemon": "Melmetal",
+    "rarity": "Mythic",
+    "preis": "3779.00"
+  },
+  {
+    "id": 810,
+    "pokemon": "Chimpep",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 811,
+    "pokemon": "Chimstix",
+    "rarity": "Uncommon",
+    "preis": "0.98"
+  },
+  {
+    "id": 812,
+    "pokemon": "Gortrom",
+    "rarity": "Rare",
+    "preis": "3.21"
+  },
+  {
+    "id": 813,
+    "pokemon": "Hopplo",
+    "rarity": "Uncommon",
+    "preis": "1.60"
+  },
+  {
+    "id": 814,
+    "pokemon": "Kickerlo",
+    "rarity": "Rare",
+    "preis": "3.25"
+  },
+  {
+    "id": 815,
+    "pokemon": "Liberlo",
+    "rarity": "Rare",
+    "preis": "8.75"
+  },
+  {
+    "id": 816,
+    "pokemon": "Memmeon",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 817,
+    "pokemon": "Phlegleon",
+    "rarity": "Uncommon",
+    "preis": "0.91"
+  },
+  {
+    "id": 818,
+    "pokemon": "Intelleon",
+    "rarity": "Rare",
+    "preis": "3.42"
+  },
+  {
+    "id": 819,
+    "pokemon": "Raffel",
+    "rarity": "Common",
+    "preis": "0.25"
+  },
+  {
+    "id": 820,
+    "pokemon": "Schlaraffel",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 821,
+    "pokemon": "Meikro",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 822,
+    "pokemon": "Kranoviz",
+    "rarity": "Uncommon",
+    "preis": "1.04"
+  },
+  {
+    "id": 823,
+    "pokemon": "Krarmor",
+    "rarity": "Rare",
+    "preis": "3.19"
+  },
+  {
+    "id": 824,
+    "pokemon": "Sensect",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 825,
+    "pokemon": "Keradar",
+    "rarity": "Common",
+    "preis": "0.35"
+  },
+  {
+    "id": 826,
+    "pokemon": "Maritellit",
+    "rarity": "Uncommon",
+    "preis": "1.10"
+  },
+  {
+    "id": 827,
+    "pokemon": "Kleptifux",
+    "rarity": "Common",
+    "preis": "0.05"
+  },
+  {
+    "id": 828,
+    "pokemon": "Gaunux",
+    "rarity": "Common",
+    "preis": "0.29"
+  },
+  {
+    "id": 829,
+    "pokemon": "Cottini",
+    "rarity": "Common",
+    "preis": "0.20"
+  },
+  {
+    "id": 830,
+    "pokemon": "Cottomi",
+    "rarity": "Uncommon",
+    "preis": "0.60"
+  },
+  {
+    "id": 831,
+    "pokemon": "Wolly",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 832,
+    "pokemon": "Zwollock",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 833,
+    "pokemon": "Kamehaps",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 834,
+    "pokemon": "Kamalm",
+    "rarity": "Uncommon",
+    "preis": "1.67"
+  },
+  {
+    "id": 835,
+    "pokemon": "Voldi",
+    "rarity": "Common",
+    "preis": "0.21"
+  },
+  {
+    "id": 836,
+    "pokemon": "Bellektro",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 837,
+    "pokemon": "Klonkett",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 838,
+    "pokemon": "Wagong",
+    "rarity": "Uncommon",
+    "preis": "1.00"
+  },
+  {
+    "id": 839,
+    "pokemon": "Montecarbo",
+    "rarity": "Rare",
+    "preis": "3.40"
+  },
+  {
+    "id": 840,
+    "pokemon": "Knapfel",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 841,
+    "pokemon": "Drapfel",
+    "rarity": "Uncommon",
+    "preis": "1.70"
+  },
+  {
+    "id": 842,
+    "pokemon": "Schlapfel",
+    "rarity": "Uncommon",
+    "preis": "1.47"
+  },
+  {
+    "id": 843,
+    "pokemon": "Salanga",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 844,
+    "pokemon": "Sanaconda",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 845,
+    "pokemon": "Urgl",
+    "rarity": "Uncommon",
+    "preis": "0.65"
+  },
+  {
+    "id": 846,
+    "pokemon": "Pikuda",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 847,
+    "pokemon": "Barrakiefa",
+    "rarity": "Uncommon",
+    "preis": "1.48"
+  },
+  {
+    "id": 848,
+    "pokemon": "Toxel",
+    "rarity": "Common",
+    "preis": "0.28"
+  },
+  {
+    "id": 849,
+    "pokemon": "Riffex",
+    "rarity": "Uncommon",
+    "preis": "1.32"
+  },
+  {
+    "id": 850,
+    "pokemon": "Thermopod",
+    "rarity": "Uncommon",
+    "preis": "0.51"
+  },
+  {
+    "id": 851,
+    "pokemon": "Infernopod",
+    "rarity": "Uncommon",
+    "preis": "1.54"
+  },
+  {
+    "id": 852,
+    "pokemon": "Klopptopus",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 853,
+    "pokemon": "Kaocto",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 854,
+    "pokemon": "Fatalitee",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 855,
+    "pokemon": "Mortipot",
+    "rarity": "Uncommon",
+    "preis": "1.66"
+  },
+  {
+    "id": 856,
+    "pokemon": "Brimova",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 857,
+    "pokemon": "Brimano",
+    "rarity": "Uncommon",
+    "preis": "1.04"
+  },
+  {
+    "id": 858,
+    "pokemon": "Silembrim",
+    "rarity": "Rare",
+    "preis": "3.31"
+  },
+  {
+    "id": 859,
+    "pokemon": "Bähmon",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 860,
+    "pokemon": "Pelzebub",
+    "rarity": "Uncommon",
+    "preis": "0.94"
+  },
+  {
+    "id": 861,
+    "pokemon": "Olangaar",
+    "rarity": "Rare",
+    "preis": "3.39"
+  },
+  {
+    "id": 862,
+    "pokemon": "Barrikadax",
+    "rarity": "Uncommon",
+    "preis": "1.09"
+  },
+  {
+    "id": 863,
+    "pokemon": "Mauzinger",
+    "rarity": "Uncommon",
+    "preis": "1.52"
+  },
+  {
+    "id": 864,
+    "pokemon": "Gorgasonn",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 865,
+    "pokemon": "Lauchzelot",
+    "rarity": "Uncommon",
+    "preis": "0.83"
+  },
+  {
+    "id": 866,
+    "pokemon": "Pantifrost",
+    "rarity": "Uncommon",
+    "preis": "1.16"
+  },
+  {
+    "id": 867,
+    "pokemon": "Oghnatoll",
+    "rarity": "Uncommon",
+    "preis": "1.50"
+  },
+  {
+    "id": 868,
+    "pokemon": "Hokumil",
+    "rarity": "Uncommon",
+    "preis": "0.42"
+  },
+  {
+    "id": 869,
+    "pokemon": "Pokusan",
+    "rarity": "Uncommon",
+    "preis": "1.46"
+  },
+  {
+    "id": 870,
+    "pokemon": "Legios",
+    "rarity": "Rare",
+    "preis": "2.93"
+  },
+  {
+    "id": 871,
+    "pokemon": "Britzigel",
+    "rarity": "Uncommon",
+    "preis": "0.63"
+  },
+  {
+    "id": 872,
+    "pokemon": "Snomnom",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 873,
+    "pokemon": "Mottineva",
+    "rarity": "Uncommon",
+    "preis": "1.61"
+  },
+  {
+    "id": 874,
+    "pokemon": "Humanolith",
+    "rarity": "Uncommon",
+    "preis": "0.67"
+  },
+  {
+    "id": 875,
+    "pokemon": "Kubuin",
+    "rarity": "Uncommon",
+    "preis": "0.58"
+  },
+  {
+    "id": 876,
+    "pokemon": "Servol",
+    "rarity": "Rare",
+    "preis": "2.80"
+  },
+  {
+    "id": 877,
+    "pokemon": "Morpeko",
+    "rarity": "Uncommon",
+    "preis": "0.64"
+  },
+  {
+    "id": 878,
+    "pokemon": "Kupfanti",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 879,
+    "pokemon": "Patinaraja",
+    "rarity": "Uncommon",
+    "preis": "1.61"
+  },
+  {
+    "id": 880,
+    "pokemon": "Lectragon",
+    "rarity": "Rare",
+    "preis": "8.54"
+  },
+  {
+    "id": 881,
+    "pokemon": "Lecryodon",
+    "rarity": "Rare",
+    "preis": "2.56"
+  },
+  {
+    "id": 882,
+    "pokemon": "Pescragon",
+    "rarity": "Rare",
+    "preis": "8.99"
+  },
+  {
+    "id": 883,
+    "pokemon": "Pescryodon",
+    "rarity": "Rare",
+    "preis": "2.82"
+  },
+  {
+    "id": 884,
+    "pokemon": "Duraludon",
+    "rarity": "Rare",
+    "preis": "7.40"
+  },
+  {
+    "id": 885,
+    "pokemon": "Grolldra",
+    "rarity": "Uncommon",
+    "preis": "1.83"
+  },
+  {
+    "id": 886,
+    "pokemon": "Phandra",
+    "rarity": "Rare",
+    "preis": "5.01"
+  },
+  {
+    "id": 887,
+    "pokemon": "Katapuldra",
+    "rarity": "Epic",
+    "preis": "44.50"
+  },
+  {
+    "id": 888,
+    "pokemon": "Zacian",
+    "rarity": "Secret Rare",
+    "preis": "12188.00"
+  },
+  {
+    "id": 889,
+    "pokemon": "Zamazenta",
+    "rarity": "Mythic",
+    "preis": "3674.00"
+  },
+  {
+    "id": 890,
+    "pokemon": "Endynalos",
+    "rarity": "Secret Rare",
+    "preis": "25104.00"
+  },
+  {
+    "id": 891,
+    "pokemon": "Dakuma",
+    "rarity": "Legendary",
+    "preis": "1670.00"
+  },
+  {
+    "id": 892,
+    "pokemon": "Wulaosu",
+    "rarity": "Legendary",
+    "preis": "1864.00"
+  },
+  {
+    "id": 893,
+    "pokemon": "Zarude",
+    "rarity": "Legendary",
+    "preis": "2160.00"
+  },
+  {
+    "id": 894,
+    "pokemon": "Regieleki",
+    "rarity": "Legendary",
+    "preis": "1762.00"
+  },
+  {
+    "id": 895,
+    "pokemon": "Regidrago",
+    "rarity": "Legendary",
+    "preis": "1561.00"
+  },
+  {
+    "id": 896,
+    "pokemon": "Polaross",
+    "rarity": "Legendary",
+    "preis": "1745.00"
+  },
+  {
+    "id": 897,
+    "pokemon": "Phantoross",
+    "rarity": "Mythic",
+    "preis": "3540.00"
+  },
+  {
+    "id": 898,
+    "pokemon": "Coronospa",
+    "rarity": "Mythic",
+    "preis": "3515.00"
+  },
+  {
+    "id": 899,
+    "pokemon": "Damythir",
+    "rarity": "Uncommon",
+    "preis": "1.46"
+  },
+  {
+    "id": 900,
+    "pokemon": "Axantor",
+    "rarity": "Epic",
+    "preis": "25.75"
+  },
+  {
+    "id": 901,
+    "pokemon": "Ursaluna",
+    "rarity": "Epic",
+    "preis": "15.75"
+  },
+  {
+    "id": 902,
+    "pokemon": "Salmagnis",
+    "rarity": "Rare",
+    "preis": "8.55"
+  },
+  {
+    "id": 903,
+    "pokemon": "Snieboss",
+    "rarity": "Rare",
+    "preis": "7.44"
+  },
+  {
+    "id": 904,
+    "pokemon": "Myriador",
+    "rarity": "Uncommon",
+    "preis": "1.60"
+  },
+  {
+    "id": 905,
+    "pokemon": "Cupidos",
+    "rarity": "Legendary",
+    "preis": "1713.00"
+  },
+  {
+    "id": 906,
+    "pokemon": "Felori",
+    "rarity": "Uncommon",
+    "preis": "1.73"
+  },
+  {
+    "id": 907,
+    "pokemon": "Feliospa",
+    "rarity": "Rare",
+    "preis": "3.36"
+  },
+  {
+    "id": 908,
+    "pokemon": "Maskagato",
+    "rarity": "Rare",
+    "preis": "9.18"
+  },
+  {
+    "id": 909,
+    "pokemon": "Krokel",
+    "rarity": "Uncommon",
+    "preis": "1.55"
+  },
+  {
+    "id": 910,
+    "pokemon": "Lokroko",
+    "rarity": "Rare",
+    "preis": "2.93"
+  },
+  {
+    "id": 911,
+    "pokemon": "Skelokrok",
+    "rarity": "Rare",
+    "preis": "10.25"
+  },
+  {
+    "id": 912,
+    "pokemon": "Kwaks",
+    "rarity": "Uncommon",
+    "preis": "1.49"
+  },
+  {
+    "id": 913,
+    "pokemon": "Fuentente",
+    "rarity": "Rare",
+    "preis": "3.41"
+  },
+  {
+    "id": 914,
+    "pokemon": "Bailonda",
+    "rarity": "Rare",
+    "preis": "9.94"
+  },
+  {
+    "id": 915,
+    "pokemon": "Ferkuli",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 916,
+    "pokemon": "Fragrunz",
+    "rarity": "Uncommon",
+    "preis": "0.55"
+  },
+  {
+    "id": 917,
+    "pokemon": "Tarundel",
+    "rarity": "Common",
+    "preis": "0.07"
+  },
+  {
+    "id": 918,
+    "pokemon": "Spinsidias",
+    "rarity": "Common",
+    "preis": "0.29"
+  },
+  {
+    "id": 919,
+    "pokemon": "Micrick",
+    "rarity": "Uncommon",
+    "preis": "0.43"
+  },
+  {
+    "id": 920,
+    "pokemon": "Lextremo",
+    "rarity": "Uncommon",
+    "preis": "1.67"
+  },
+  {
+    "id": 921,
+    "pokemon": "Pamo",
+    "rarity": "Uncommon",
+    "preis": "0.46"
+  },
+  {
+    "id": 922,
+    "pokemon": "Pamamo",
+    "rarity": "Uncommon",
+    "preis": "1.09"
+  },
+  {
+    "id": 923,
+    "pokemon": "Pamomamo",
+    "rarity": "Rare",
+    "preis": "3.33"
+  },
+  {
+    "id": 924,
+    "pokemon": "Zwieps",
+    "rarity": "Uncommon",
+    "preis": "1.74"
+  },
+  {
+    "id": 925,
+    "pokemon": "Famieps",
+    "rarity": "Rare",
+    "preis": "8.15"
+  },
+  {
+    "id": 926,
+    "pokemon": "Hefel",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 927,
+    "pokemon": "Backel",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 928,
+    "pokemon": "Olini",
+    "rarity": "Uncommon",
+    "preis": "0.53"
+  },
+  {
+    "id": 929,
+    "pokemon": "Olivinio",
+    "rarity": "Uncommon",
+    "preis": "1.07"
+  },
+  {
+    "id": 930,
+    "pokemon": "Olithena",
+    "rarity": "Rare",
+    "preis": "3.31"
+  },
+  {
+    "id": 931,
+    "pokemon": "Krawalloro",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 932,
+    "pokemon": "Geosali",
+    "rarity": "Uncommon",
+    "preis": "1.92"
+  },
+  {
+    "id": 933,
+    "pokemon": "Sedisal",
+    "rarity": "Rare",
+    "preis": "4.84"
+  },
+  {
+    "id": 934,
+    "pokemon": "Saltigant",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 935,
+    "pokemon": "Knarbon",
+    "rarity": "Uncommon",
+    "preis": "1.89"
+  },
+  {
+    "id": 936,
+    "pokemon": "Crimanzo",
+    "rarity": "Rare",
+    "preis": "7.43"
+  },
+  {
+    "id": 937,
+    "pokemon": "Azugladis",
+    "rarity": "Rare",
+    "preis": "7.44"
+  },
+  {
+    "id": 938,
+    "pokemon": "Blipp",
+    "rarity": "Uncommon",
+    "preis": "0.48"
+  },
+  {
+    "id": 939,
+    "pokemon": "Wampitz",
+    "rarity": "Uncommon",
+    "preis": "1.45"
+  },
+  {
+    "id": 940,
+    "pokemon": "Voltrel",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 941,
+    "pokemon": "Voltrean",
+    "rarity": "Uncommon",
+    "preis": "1.63"
+  },
+  {
+    "id": 942,
+    "pokemon": "Mobtiff",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 943,
+    "pokemon": "Mastifioso",
+    "rarity": "Uncommon",
+    "preis": "1.44"
+  },
+  {
+    "id": 944,
+    "pokemon": "Sproxi",
+    "rarity": "Common",
+    "preis": "0.26"
+  },
+  {
+    "id": 945,
+    "pokemon": "Affiti",
+    "rarity": "Uncommon",
+    "preis": "0.57"
+  },
+  {
+    "id": 946,
+    "pokemon": "Weherba",
+    "rarity": "Uncommon",
+    "preis": "0.45"
+  },
+  {
+    "id": 947,
+    "pokemon": "Horrerba",
+    "rarity": "Uncommon",
+    "preis": "1.41"
+  },
+  {
+    "id": 948,
+    "pokemon": "Tentagra",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 949,
+    "pokemon": "Tenterra",
+    "rarity": "Uncommon",
+    "preis": "1.51"
+  },
+  {
+    "id": 950,
+    "pokemon": "Klibbe",
+    "rarity": "Uncommon",
+    "preis": "0.61"
+  },
+  {
+    "id": 951,
+    "pokemon": "Chilingel",
+    "rarity": "Uncommon",
+    "preis": "0.49"
+  },
+  {
+    "id": 952,
+    "pokemon": "Halupenjo",
+    "rarity": "Uncommon",
+    "preis": "1.62"
+  },
+  {
+    "id": 953,
+    "pokemon": "Relluk",
+    "rarity": "Common",
+    "preis": "0.22"
+  },
+  {
+    "id": 954,
+    "pokemon": "Skarabaks",
+    "rarity": "Uncommon",
+    "preis": "0.56"
+  },
+  {
+    "id": 955,
+    "pokemon": "Flattutu",
+    "rarity": "Uncommon",
+    "preis": "0.54"
+  },
+  {
+    "id": 956,
+    "pokemon": "Psiopatra",
+    "rarity": "Uncommon",
+    "preis": "1.47"
+  },
+  {
+    "id": 957,
+    "pokemon": "Forgita",
+    "rarity": "Uncommon",
+    "preis": "1.94"
+  },
+  {
+    "id": 958,
+    "pokemon": "Tafforgita",
+    "rarity": "Rare",
+    "preis": "5.32"
+  },
+  {
+    "id": 959,
+    "pokemon": "Granforgita",
+    "rarity": "Epic",
+    "preis": "16.00"
+  },
+  {
+    "id": 960,
+    "pokemon": "Schligda",
+    "rarity": "Common",
+    "preis": "0.23"
+  },
+  {
+    "id": 961,
+    "pokemon": "Schligdri",
+    "rarity": "Uncommon",
+    "preis": "0.44"
+  },
+  {
+    "id": 962,
+    "pokemon": "Adebom",
+    "rarity": "Uncommon",
+    "preis": "1.67"
+  },
+  {
+    "id": 963,
+    "pokemon": "Normifin",
+    "rarity": "Uncommon",
+    "preis": "0.79"
+  },
+  {
+    "id": 964,
+    "pokemon": "Delfinator",
+    "rarity": "Uncommon",
+    "preis": "2.11"
+  },
+  {
+    "id": 965,
+    "pokemon": "Knattox",
+    "rarity": "Uncommon",
+    "preis": "2.01"
+  },
+  {
+    "id": 966,
+    "pokemon": "Knattatox",
+    "rarity": "Rare",
+    "preis": "7.48"
+  },
+  {
+    "id": 967,
+    "pokemon": "Mopex",
+    "rarity": "Rare",
+    "preis": "3.14"
+  },
+  {
+    "id": 968,
+    "pokemon": "Schlurm",
+    "rarity": "Rare",
+    "preis": "2.85"
+  },
+  {
+    "id": 969,
+    "pokemon": "Lumispross",
+    "rarity": "Uncommon",
+    "preis": "2.02"
+  },
+  {
+    "id": 970,
+    "pokemon": "Lumiflora",
+    "rarity": "Rare",
+    "preis": "7.26"
+  },
+  {
+    "id": 971,
+    "pokemon": "Gruff",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 972,
+    "pokemon": "Friedwuff",
+    "rarity": "Uncommon",
+    "preis": "1.55"
+  },
+  {
+    "id": 973,
+    "pokemon": "Flaminkno",
+    "rarity": "Rare",
+    "preis": "2.68"
+  },
+  {
+    "id": 974,
+    "pokemon": "Flaniwal",
+    "rarity": "Uncommon",
+    "preis": "0.47"
+  },
+  {
+    "id": 975,
+    "pokemon": "Kolowal",
+    "rarity": "Uncommon",
+    "preis": "1.55"
+  },
+  {
+    "id": 976,
+    "pokemon": "Agiluza",
+    "rarity": "Rare",
+    "preis": "2.96"
+  },
+  {
+    "id": 977,
+    "pokemon": "Heerashai",
+    "rarity": "Rare",
+    "preis": "3.05"
+  },
+  {
+    "id": 978,
+    "pokemon": "Nigiragi",
+    "rarity": "Rare",
+    "preis": "2.72"
+  },
+  {
+    "id": 979,
+    "pokemon": "Epitaff",
+    "rarity": "Epic",
+    "preis": "15.75"
+  },
+  {
+    "id": 980,
+    "pokemon": "Suelord",
+    "rarity": "Uncommon",
+    "preis": "0.52"
+  },
+  {
+    "id": 981,
+    "pokemon": "Farigiraf",
+    "rarity": "Uncommon",
+    "preis": "1.59"
+  },
+  {
+    "id": 982,
+    "pokemon": "Dummimisel",
+    "rarity": "Uncommon",
+    "preis": "1.53"
+  },
+  {
+    "id": 983,
+    "pokemon": "Gladimperio",
+    "rarity": "Epic",
+    "preis": "15.50"
+  },
+  {
+    "id": 984,
+    "pokemon": "Riesenzahn",
+    "rarity": "Ultra Rare",
+    "preis": "238.00"
+  },
+  {
+    "id": 985,
+    "pokemon": "Brüllschweif",
+    "rarity": "Rare",
+    "preis": "11.25"
+  },
+  {
+    "id": 986,
+    "pokemon": "Wutpilz",
+    "rarity": "Rare",
+    "preis": "11.50"
+  },
+  {
+    "id": 987,
+    "pokemon": "Flatterhaar",
+    "rarity": "Ultra Rare",
+    "preis": "241.00"
+  },
+  {
+    "id": 988,
+    "pokemon": "Kriechflügel",
+    "rarity": "Epic",
+    "preis": "56.00"
+  },
+  {
+    "id": 989,
+    "pokemon": "Sandfell",
+    "rarity": "Epic",
+    "preis": "56.00"
+  },
+  {
+    "id": 990,
+    "pokemon": "Eisenrad",
+    "rarity": "Epic",
+    "preis": "59.00"
+  },
+  {
+    "id": 991,
+    "pokemon": "Eisenbündel",
+    "rarity": "Epic",
+    "preis": "54.00"
+  },
+  {
+    "id": 992,
+    "pokemon": "Eisenhand",
+    "rarity": "Epic",
+    "preis": "59.25"
+  },
+  {
+    "id": 993,
+    "pokemon": "Eisenhals",
+    "rarity": "Epic",
+    "preis": "53.75"
+  },
+  {
+    "id": 994,
+    "pokemon": "Eisenfalter",
+    "rarity": "Epic",
+    "preis": "59.25"
+  },
+  {
+    "id": 995,
+    "pokemon": "Eisendorn",
+    "rarity": "Rare",
+    "preis": "11.00"
+  },
+  {
+    "id": 996,
+    "pokemon": "Frospino",
+    "rarity": "Uncommon",
+    "preis": "1.75"
+  },
+  {
+    "id": 997,
+    "pokemon": "Cryospino",
+    "rarity": "Rare",
+    "preis": "5.60"
+  },
+  {
+    "id": 998,
+    "pokemon": "Espinodon",
+    "rarity": "Epic",
+    "preis": "16.25"
+  },
+  {
+    "id": 999,
+    "pokemon": "Gierspenst",
+    "rarity": "Uncommon",
+    "preis": "1.95"
+  },
+  {
+    "id": 1000,
+    "pokemon": "Monetigo",
+    "rarity": "Rare",
+    "preis": "7.79"
+  },
+  {
+    "id": 1001,
+    "pokemon": "Chongjian",
+    "rarity": "Legendary",
+    "preis": "1244.00"
+  },
+  {
+    "id": 1002,
+    "pokemon": "Baojian",
+    "rarity": "Legendary",
+    "preis": "2159.00"
+  },
+  {
+    "id": 1003,
+    "pokemon": "Dinglu",
+    "rarity": "Legendary",
+    "preis": "1752.00"
+  },
+  {
+    "id": 1004,
+    "pokemon": "Yuyu",
+    "rarity": "Legendary",
+    "preis": "2074.00"
+  },
+  {
+    "id": 1005,
+    "pokemon": "Donnersichel",
+    "rarity": "Ultra Rare",
+    "preis": "235.00"
+  },
+  {
+    "id": 1006,
+    "pokemon": "Eisenkrieger",
+    "rarity": "Epic",
+    "preis": "59.75"
+  },
+  {
+    "id": 1007,
+    "pokemon": "Koraidon",
+    "rarity": "Secret Rare",
+    "preis": "11990.00"
+  },
+  {
+    "id": 1008,
+    "pokemon": "Miraidon",
+    "rarity": "Secret Rare",
+    "preis": "11986.00"
+  },
+  {
+    "id": 1009,
+    "pokemon": "Windewoge",
+    "rarity": "Ultra Rare",
+    "preis": "235.00"
+  },
+  {
+    "id": 1010,
+    "pokemon": "Eisenblatt",
+    "rarity": "Epic",
+    "preis": "58.50"
+  },
+  {
+    "id": 1011,
+    "pokemon": "Sirapfel",
+    "rarity": "Uncommon",
+    "preis": "0.97"
+  },
+  {
+    "id": 1012,
+    "pokemon": "Mortcha",
+    "rarity": "Uncommon",
+    "preis": "1.75"
+  },
+  {
+    "id": 1013,
+    "pokemon": "Fatalitcha",
+    "rarity": "Rare",
+    "preis": "7.68"
+  },
+  {
+    "id": 1014,
+    "pokemon": "Boninu",
+    "rarity": "Legendary",
+    "preis": "1606.00"
+  },
+  {
+    "id": 1015,
+    "pokemon": "Benesaru",
+    "rarity": "Legendary",
+    "preis": "1738.00"
+  },
+  {
+    "id": 1016,
+    "pokemon": "Beatori",
+    "rarity": "Legendary",
+    "preis": "1325.00"
+  },
+  {
+    "id": 1017,
+    "pokemon": "Ogerpon",
+    "rarity": "Legendary",
+    "preis": "2034.00"
+  },
+  {
+    "id": 1018,
+    "pokemon": "Briduradon",
+    "rarity": "Epic",
+    "preis": "24.25"
+  },
+  {
+    "id": 1019,
+    "pokemon": "Hydrapfel",
+    "rarity": "Rare",
+    "preis": "3.50"
+  },
+  {
+    "id": 1020,
+    "pokemon": "Keilflamme",
+    "rarity": "Ultra Rare",
+    "preis": "237.00"
+  },
+  {
+    "id": 1021,
+    "pokemon": "Furienblitz",
+    "rarity": "Ultra Rare",
+    "preis": "249.00"
+  },
+  {
+    "id": 1022,
+    "pokemon": "Eisenfels",
+    "rarity": "Ultra Rare",
+    "preis": "246.00"
+  },
+  {
+    "id": 1023,
+    "pokemon": "Eisenhaupt",
+    "rarity": "Ultra Rare",
+    "preis": "226.00"
+  },
+  {
+    "id": 1024,
+    "pokemon": "Terapagos",
+    "rarity": "Secret Rare",
+    "preis": "12318.00"
+  },
+  {
+    "id": 1025,
+    "pokemon": "Infamomo",
+    "rarity": "Mythic",
+    "preis": "4001.00"
+  }
+]
