@@ -1,0 +1,410 @@
+/* PokeCase Retro UI - classic monster-catching game language. */
+:root {
+  color-scheme: dark;
+  font-family: "Courier New", "Lucida Console", monospace;
+  font-synthesis: none;
+  --bg: #0e1325;
+  --bg-elevated: #18213b;
+  --bg-panel: #202c49;
+  --bg-panel-2: #2a3858;
+  --line: #5d7195;
+  --line-strong: #8bd8ff;
+  --text: #fffbea;
+  --muted: #b8c7da;
+  --dim: #7689a8;
+  --violet: #a78bfa;
+  --violet-2: #7259c9;
+  --cyan: #57ccff;
+  --mint: #5de0a3;
+  --pink: #ff77b7;
+  --red: #ff5360;
+  --gold: #ffda45;
+  --shadow: #050810;
+  --pixel-dark: #080c17;
+  --pixel-navy: #121a31;
+  --pixel-panel: #1b2845;
+  --pixel-panel-light: #293a5d;
+  --pixel-white: #fffbea;
+  --pixel-red: #ff5360;
+  --pixel-yellow: #ffda45;
+  --pixel-blue: #57ccff;
+  --pixel-green: #5de0a3;
+  --pixel-purple: #b08cff;
+}
+
+* {
+  box-sizing: border-box;
+  scrollbar-color: #6e84a8 #11182b;
+  scrollbar-width: thin;
+}
+
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-track { background: #11182b; }
+*::-webkit-scrollbar-thumb { background: #6e84a8; border: 2px solid #11182b; border-radius: 0; }
+
+html { min-width: 320px; }
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  color: var(--pixel-white);
+  background-color: var(--bg);
+  background-image:
+    linear-gradient(45deg, rgba(87,204,255,.035) 25%, transparent 25%, transparent 75%, rgba(87,204,255,.035) 75%),
+    linear-gradient(45deg, rgba(87,204,255,.035) 25%, transparent 25%, transparent 75%, rgba(87,204,255,.035) 75%);
+  background-position: 0 0, 16px 16px;
+  background-size: 32px 32px;
+  font-weight: 700;
+}
+
+button, input, select { font: inherit; letter-spacing: 0; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid var(--pixel-yellow); outline-offset: 2px; }
+img { image-rendering: pixelated; }
+.brand__logo, .case-card[data-community="true"] .case-card__image, .case-card__overlay, .case-art__cover { image-rendering: auto; }
+
+.app-shell { min-height: 100vh; }
+.route-loader { border-color: #35486c; border-top-color: var(--pixel-yellow); border-radius: 0; }
+
+/* Status strip and trainer menu */
+.top-stats {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  min-height: 38px;
+  background: var(--pixel-dark);
+  border-bottom: 3px solid var(--pixel-blue);
+}
+.top-stats__inner { gap: 26px; width: min(1540px, calc(100% - 40px)); min-height: 35px; }
+.top-stats__item { gap: 7px; min-height: 35px; color: var(--muted); font-size: .72rem; text-transform: uppercase; }
+.top-stats__item strong { color: #fff; font-size: .78rem; }
+.top-stats__item svg { width: 14px; height: 14px; shape-rendering: crispEdges; }
+
+.nav-wrap {
+  position: sticky;
+  top: 38px;
+  z-index: 40;
+  padding: 10px 20px 12px;
+  background: rgba(14,19,37,.96);
+}
+.main-nav {
+  grid-template-columns: 250px minmax(360px,1fr) auto;
+  gap: 22px;
+  width: min(1540px,100%);
+  min-height: 78px;
+  padding: 8px 12px;
+  background: var(--pixel-panel);
+  border: 3px solid var(--pixel-white);
+  border-radius: 0;
+  box-shadow: 0 0 0 3px var(--pixel-dark), 6px 6px 0 var(--pixel-dark);
+}
+.brand { height: 58px; min-width: 0; }
+.brand__logo { width: 230px; height: 58px; object-fit: contain; object-position: left center; filter: none; }
+.main-nav__links { justify-content: center; gap: 4px; width: max-content; max-width: 100%; margin: auto; padding: 4px; background: var(--pixel-dark); border: 2px solid #52678d; border-radius: 0; }
+.main-nav__link { min-height: 40px; padding: 0 13px; color: var(--muted); font-size: .72rem; font-weight: 900; text-transform: uppercase; background: transparent; border: 2px solid transparent; border-radius: 0; }
+.main-nav__link:hover { color: #fff; background: #283958; }
+.main-nav__link[data-active="true"] { color: var(--pixel-dark); background: var(--pixel-yellow); border-color: #fff4a9; box-shadow: inset -3px -3px 0 #d09e16; }
+.main-nav__link[data-active="true"] svg { color: var(--pixel-dark); }
+.main-nav__actions, .auth-actions { gap: 8px; }
+.language-button, .account-button, .secondary-link-button {
+  min-height: 42px;
+  color: #fff;
+  background: #263858;
+  border: 2px solid var(--pixel-white);
+  border-radius: 0;
+  box-shadow: 3px 3px 0 var(--pixel-dark);
+  clip-path: none;
+}
+.language-button { min-width: 62px; padding: 0 10px; }
+.account-button { min-width: 170px; padding: 5px 10px; border-color: var(--pixel-green); }
+.account-button__name { font-size: .76rem; text-transform: uppercase; }
+.account-button__stats { color: var(--pixel-green); font-size: .62rem; }
+.secondary-link-button { padding: 0 12px; font-size: .7rem; text-transform: uppercase; }
+.secondary-link-button:last-child { color: var(--pixel-dark); background: var(--pixel-red); border-color: #ffabb2; box-shadow: 3px 3px 0 #720e20; }
+
+/* App screen and chat/dialog box */
+.app-layout { display: grid; grid-template-columns: 260px minmax(0,1fr); gap: 24px; width: min(1540px,calc(100% - 40px)); margin: 0 auto; padding: 18px 0 48px; }
+.app-layout > main { min-width: 0; }
+.chat-panel {
+  position: sticky;
+  top: 148px;
+  align-self: start;
+  grid-template-rows: auto minmax(0,1fr) auto;
+  height: calc(100vh - 168px);
+  min-height: 460px;
+  padding: 0;
+  overflow: hidden;
+  background: #111b31;
+  border: 3px solid var(--pixel-white);
+  border-radius: 0;
+  box-shadow: 0 0 0 3px var(--pixel-dark), 5px 5px 0 var(--pixel-dark);
+}
+.chat-panel__head { min-height: 54px; padding: 0 12px; background: #263858; border-bottom: 3px solid var(--pixel-white); }
+.chat-panel__head svg { color: var(--pixel-yellow); }
+.chat-panel__head strong { font-size: .8rem; text-transform: uppercase; }
+.chat-panel__head button { display: grid; width: 30px; height: 30px; place-items: center; color: var(--pixel-red); background: var(--pixel-dark); border: 2px solid #62789e; border-radius: 0; }
+.chat-panel__messages { align-content: start; gap: 9px; min-height: 0; padding: 11px; overflow-y: auto; }
+.chat-message { position: relative; padding: 9px 9px 9px 13px; background: #1d2a47; border: 2px solid #53698f; border-radius: 0; }
+.chat-message::before { position: absolute; top: 8px; bottom: 8px; left: 0; width: 4px; background: var(--pixel-blue); content: ""; }
+.chat-message strong { color: #fff; font-size: .68rem; text-transform: uppercase; }
+.chat-message time { color: #8fa3c2; font-size: .58rem; }
+.chat-message p { margin-top: 6px; color: var(--muted); font-size: .67rem; line-height: 1.35; }
+.chat-panel__form { gap: 8px; padding: 10px; background: var(--pixel-dark); border-top: 3px solid #52678d; }
+.chat-panel__form input { min-height: 38px; padding: 0 10px; color: #fff; background: #1c2945; border: 2px solid #687da0; border-radius: 0; }
+.chat-panel__form button { width: 38px; min-width: 38px; height: 38px; color: var(--pixel-dark); background: var(--pixel-yellow); border: 2px solid #fff4a9; border-radius: 0; box-shadow: inset -3px -3px 0 #ce9a11; }
+
+/* Tabs and headings */
+.case-home-tabs { display: grid; gap: 12px; margin-bottom: 22px; padding: 0; }
+.case-home-main-tabs { display: flex; gap: 8px; width: max-content; max-width: 100%; padding: 5px; background: var(--pixel-dark); border: 3px solid #52678d; border-radius: 0; }
+.case-home-main-tab { min-width: 176px; min-height: 46px; padding: 0 18px; color: var(--muted); font-size: .74rem; font-weight: 900; text-transform: uppercase; background: #1b2845; border: 2px solid #52678d; border-radius: 0; clip-path: none; }
+.case-home-main-tab[data-active="true"] { color: var(--pixel-dark); background: var(--pixel-red); border-color: #ffb1b7; box-shadow: inset -4px -4px 0 #a91d34; }
+.case-home-subtabs { display: flex; flex-wrap: nowrap; gap: 0; min-height: 52px; padding: 0 10px; overflow-x: auto; background: #1b2845; border: 3px solid var(--pixel-white); border-radius: 0; box-shadow: 4px 4px 0 var(--pixel-dark); }
+.case-home-subtab { position: relative; min-height: 49px; padding: 0 16px; color: var(--dim); font-size: .68rem; font-weight: 900; white-space: nowrap; text-transform: uppercase; background: transparent; border: 0; }
+.case-home-subtab[data-active="true"] { color: var(--pixel-yellow); }
+.case-home-subtab[data-active="true"]::after { position: absolute; right: 12px; bottom: 0; left: 12px; height: 4px; background: var(--pixel-yellow); content: ""; }
+.cases-section, .page-section, .page-section--single { padding: 0; }
+.case-groups { gap: 32px; }
+.case-group { gap: 13px; padding-bottom: 28px; border-bottom: 3px dashed #35486b; }
+.case-group:last-child { border-bottom: 0; }
+.section-title { gap: 4px; margin: 0 0 14px; }
+.case-group > .section-title { margin: 0; }
+.section-title h2 { display: flex; align-items: center; gap: 9px; margin: 0; color: var(--pixel-white); font-size: 1.08rem; font-weight: 900; line-height: 1.2; text-transform: uppercase; text-shadow: 3px 3px 0 #050810; }
+.section-title h2::before { flex: 0 0 auto; width: 16px; height: 16px; background: linear-gradient(180deg,var(--pixel-red) 0 42%,var(--pixel-dark) 42% 58%,var(--pixel-white) 58%); border: 2px solid var(--pixel-white); border-radius: 50%; content: ""; }
+.section-title__eyebrow { color: var(--pixel-yellow); font-size: .62rem; font-weight: 900; text-transform: uppercase; }
+.section-title p { color: var(--muted); }
+
+/* Pixel item tiles */
+.cases-grid { grid-template-columns: repeat(5,minmax(0,1fr)); gap: 14px; }
+.case-card, .pokemon-card, .inventory-item, .loot-card {
+  overflow: hidden;
+  background: var(--rarity-bg,#202c49);
+  border: 3px solid var(--rarity-border,#8aa0c1);
+  border-radius: 0;
+  box-shadow: 5px 5px 0 var(--pixel-dark);
+}
+.case-card { position: relative; display: grid; aspect-ratio: 1; min-width: 0; min-height: 0; padding: 0; isolation: isolate; transition: transform 100ms steps(2,end), box-shadow 100ms steps(2,end); }
+.case-card[data-rarity] { background: var(--rarity-bg,#202c49); border-color: var(--rarity-border,#8aa0c1); box-shadow: 5px 5px 0 var(--pixel-dark); }
+.case-card::before { position: absolute; inset: 0; z-index: 0; background-image: linear-gradient(90deg,rgba(255,255,255,.035) 50%,transparent 50%), linear-gradient(rgba(255,255,255,.035) 50%,transparent 50%); background-size: 12px 12px; content: ""; }
+.case-card::after { position: absolute; right: 0; bottom: 0; left: 0; z-index: 1; height: 42%; background: linear-gradient(180deg,transparent,rgba(5,8,16,.95) 62%); content: ""; }
+.case-card:hover { transform: translate(-2px,-2px); box-shadow: 8px 8px 0 var(--pixel-dark); }
+.case-card__image { position: absolute; inset: 2px 2px auto; z-index: 1; width: calc(100% - 4px); height: 76%; padding: 10px; object-fit: contain; filter: drop-shadow(5px 7px 0 rgba(5,8,16,.45)); }
+.case-card__overlay { position: absolute; top: 6%; left: 50%; z-index: 2; width: 43%; height: 43%; object-fit: contain; transform: translateX(-50%); filter: drop-shadow(4px 5px 0 rgba(5,8,16,.55)); }
+.case-card__content { position: absolute; right: 10px; bottom: 10px; left: 10px; z-index: 3; display: grid; gap: 4px; min-width: 0; padding: 0; }
+.case-card__content h3 { overflow: hidden; margin: 0; color: #fff; font-size: clamp(.65rem,.9vw,.78rem); font-weight: 900; line-height: 1.25; text-overflow: ellipsis; text-transform: uppercase; white-space: nowrap; text-shadow: 2px 2px 0 #050810; }
+.case-card__content strong { overflow: hidden; color: var(--pixel-yellow); font-size: .66rem; font-weight: 900; text-overflow: ellipsis; white-space: nowrap; text-shadow: 2px 2px 0 #050810; }
+.own-case-card { position: relative; }
+.own-case-card__delete { position: absolute; top: 8px; right: 8px; z-index: 5; }
+
+/* Pixel controls */
+.primary-button, .secondary-button, .tab-button, .icon-button { border-radius: 0; clip-path: none; text-transform: uppercase; }
+.primary-button { min-height: 44px; padding: 0 18px; color: var(--pixel-dark); font-size: .72rem; font-weight: 900; background: var(--pixel-red); border: 3px solid #ffb6bc; box-shadow: inset -4px -4px 0 #a91d34, 4px 4px 0 var(--pixel-dark); }
+.primary-button:hover { filter: brightness(1.07); transform: translate(-1px,-1px); }
+.primary-button:active { box-shadow: inset 4px 4px 0 #a91d34; transform: translate(3px,3px); }
+.primary-button:disabled { opacity: .48; box-shadow: none; transform: none; }
+.secondary-button { min-height: 44px; color: #fff; background: #2b3d60; border: 3px solid #7188ad; box-shadow: inset -3px -3px 0 #111a30, 4px 4px 0 var(--pixel-dark); }
+.secondary-button:hover { color: var(--pixel-yellow); border-color: var(--pixel-yellow); }
+.icon-button { display: inline-grid; width: 38px; height: 38px; min-width: 38px; place-items: center; color: #fff; background: #263858; border: 2px solid #7f93b4; box-shadow: 3px 3px 0 var(--pixel-dark); }
+.icon-button:hover { color: var(--pixel-red); border-color: var(--pixel-red); }
+.search-shell input, .input-shell input, .text-input, .select-input, .select-shell { min-height: 42px; color: #fff; background: #101a31; border: 3px solid #61789e; border-radius: 0; }
+.select-shell { min-width: 210px; }
+.select-shell select, .select-input { color: #fff; background-color: #101a31; }
+
+/* Case opening battle screen */
+.case-detail-hero { grid-template-columns: minmax(210px,285px) minmax(0,1fr); gap: 24px; min-height: 510px; padding: 22px; background: #1b2845; border: 3px solid var(--pixel-white); border-radius: 0; box-shadow: 0 0 0 3px var(--pixel-dark), 7px 7px 0 var(--pixel-dark); }
+.case-detail-hero[data-rarity] { background: #1b2845; border-color: var(--rarity-border,var(--pixel-white)); box-shadow: 0 0 0 3px var(--pixel-dark), 7px 7px 0 var(--pixel-dark); }
+.case-detail-hero__copy { align-content: center; justify-items: start; gap: 17px; text-align: left; }
+.back-link { color: var(--pixel-blue); font-size: .7rem; font-weight: 900; text-transform: uppercase; }
+.case-detail-hero__copy h1 { margin: 0; color: #fff; font-size: clamp(1.65rem,3vw,2.6rem); line-height: 1.05; text-transform: uppercase; text-shadow: 4px 4px 0 var(--pixel-dark); }
+.fairness-line { color: var(--pixel-green); font-size: .68rem; text-transform: uppercase; }
+.case-opening { gap: 16px; width: 100%; min-width: 0; }
+.stage-frame, .case-opening-reel { position: relative; width: 100%; min-height: 340px; overflow: hidden; background-color: #101a31; background-image: linear-gradient(45deg,#172746 25%,transparent 25%,transparent 75%,#172746 75%),linear-gradient(45deg,#172746 25%,transparent 25%,transparent 75%,#172746 75%); background-position: 0 0,12px 12px; background-size: 24px 24px; border: 3px solid #7188ad; border-radius: 0; box-shadow: inset 0 0 0 3px var(--pixel-dark); }
+.stage-frame::after { position: absolute; bottom: 12%; left: 50%; width: 42%; height: 12px; background: #050810; content: ""; transform: translateX(-50%); opacity: .55; }
+.stage-marker, .case-opening-reel__marker { z-index: 5; filter: none; }
+.stage-marker--top, .case-opening-reel__marker--top { border-top-color: var(--pixel-yellow); }
+.stage-marker--bottom, .case-opening-reel__marker--bottom { border-bottom-color: var(--pixel-yellow); }
+.case-art { z-index: 2; width: min(380px,74%); height: 245px; }
+.case-art__lid { background: #57ccff; border: 4px solid var(--pixel-dark); border-radius: 0; box-shadow: inset -8px -8px 0 #246caf; }
+.case-art__body { background: #328ee4; border: 4px solid var(--pixel-dark); border-radius: 0; box-shadow: inset -9px -9px 0 #2253b7, 7px 7px 0 rgba(5,8,16,.55); }
+.case-art__sprite { filter: drop-shadow(4px 5px 0 rgba(5,8,16,.55)); }
+.case-art__glow { display: none; }
+.case-art--community { width: min(520px,88%); height: 300px; }
+.case-art__cover { width: 100%; height: 100%; object-fit: contain; }
+.case-art__overlay { top: 7%; width: 42%; height: 42%; object-fit: contain; }
+.open-panel { gap: 10px; }
+.open-panel > strong { display: inline-flex; min-width: 150px; min-height: 46px; align-items: center; justify-content: center; padding: 0 16px; color: var(--pixel-yellow); background: var(--pixel-dark); border: 3px solid var(--pixel-yellow); border-radius: 0; box-shadow: 4px 4px 0 var(--pixel-dark); }
+.open-panel .primary-button, .case-opening-result__actions .primary-button { color: var(--pixel-dark); background: var(--pixel-red); border: 3px solid #ffb6bc; border-radius: 0; box-shadow: inset -4px -4px 0 #a91d34, 4px 4px 0 var(--pixel-dark); clip-path: none; }
+.case-opening-result__actions .secondary-button { border-radius: 0; clip-path: none; }
+.case-opening-item { background: var(--rarity-bg,#202c49); border: 3px solid var(--rarity-border,#8aa0c1); border-radius: 0; box-shadow: 4px 4px 0 var(--pixel-dark); }
+.case-opening-item[data-rarity] { background: var(--rarity-bg,#202c49); border-color: var(--rarity-border,#8aa0c1); box-shadow: 4px 4px 0 var(--pixel-dark); }
+.case-opening-result { padding: 14px; background: #1b2845; border: 3px solid var(--rarity-border,#8aa0c1); border-radius: 0; box-shadow: 5px 5px 0 var(--pixel-dark); }
+
+/* Drops, Pokedex and inventory */
+.loot-section { margin-top: 28px; }
+.loot-grid { grid-template-columns: repeat(5,minmax(0,1fr)); gap: 14px; }
+.loot-card[data-rarity], .pokemon-card[data-rarity], .inventory-item[data-rarity], .pokemon-detail__image[data-rarity] { background: var(--rarity-bg,#202c49); border-color: var(--rarity-border,#8aa0c1); box-shadow: 5px 5px 0 var(--pixel-dark); }
+.loot-card__media { min-height: 170px; background-image: linear-gradient(90deg,rgba(255,255,255,.035) 50%,transparent 50%),linear-gradient(rgba(255,255,255,.035) 50%,transparent 50%); background-size: 12px 12px; }
+.loot-card__media img { width: 118px; height: 118px; object-fit: contain; filter: drop-shadow(4px 5px 0 rgba(5,8,16,.55)); }
+.loot-card__chance, .loot-card__value { min-height: 25px; padding: 0 7px; font-size: .6rem; line-height: 25px; background: var(--pixel-dark); border: 2px solid #7188ad; border-radius: 0; }
+.loot-card__chance { color: var(--pixel-yellow); }
+.loot-card__value { color: var(--pixel-green); }
+.loot-card__copy { min-height: 46px; padding: 0 10px; background: rgba(5,8,16,.75); border-top: 3px solid var(--pixel-dark); }
+.loot-card__copy strong { font-size: .66rem; text-transform: uppercase; }
+.pokemon-toolbar, .inventory-toolbar { min-height: 62px; margin-bottom: 16px; padding: 9px; background: #1b2845; border: 3px solid var(--pixel-white); border-radius: 0; box-shadow: 4px 4px 0 var(--pixel-dark); }
+.pokemon-grid { grid-template-columns: repeat(5,minmax(0,1fr)); gap: 14px; }
+.pokemon-card { grid-template-rows: minmax(128px,1fr) auto; min-height: 205px; padding: 12px; }
+.pokemon-card:hover { transform: translate(-2px,-2px); box-shadow: 8px 8px 0 var(--pixel-dark); }
+.pokemon-card img { width: 128px; height: 128px; object-fit: contain; transition: none; filter: drop-shadow(4px 5px 0 rgba(5,8,16,.5)); }
+.pokemon-card div { min-height: 40px; align-content: center; border-top: 3px solid var(--pixel-dark); }
+.pokemon-card strong { max-width: 100%; font-size: .7rem; text-transform: uppercase; }
+.pokemon-detail__hero { grid-template-columns: minmax(250px,350px) minmax(0,1fr); gap: 26px; margin-bottom: 20px; }
+.pokemon-detail__image { min-height: 330px; border-radius: 0; }
+.pokemon-detail__image img { width: 210px; height: 210px; image-rendering: pixelated; filter: drop-shadow(6px 7px 0 rgba(5,8,16,.5)); }
+.pokemon-detail__copy h1 { color: #fff; font-size: clamp(1.8rem,4vw,3.2rem); text-transform: uppercase; text-shadow: 5px 5px 0 var(--pixel-dark); }
+.pokemon-price-table { background: #1b2845; border: 3px solid var(--pixel-white); border-radius: 0; box-shadow: 5px 5px 0 var(--pixel-dark); }
+.pokemon-price-table__head { color: var(--pixel-yellow); background: var(--pixel-dark); }
+.pokemon-price-row { min-height: 56px; border-bottom: 2px dashed #52678d; }
+.pokemon-price-row span { color: var(--pixel-green); }
+.inventory-grid { grid-template-columns: repeat(4,minmax(0,1fr)); gap: 14px; }
+.inventory-item { min-height: 245px; padding: 13px; }
+.inventory-item img { width: 132px; height: 132px; filter: drop-shadow(4px 5px 0 rgba(5,8,16,.5)); }
+.inventory-item strong, .inventory-item small { text-transform: uppercase; }
+.inventory-item b, .inventory-toolbar__summary svg, .inventory-toolbar__summary strong { color: var(--pixel-yellow); }
+
+/* Battle lobby and account screens */
+.battle-layout { gap: 16px; }
+.battle-panel { min-height: 290px; padding: 22px; background: #1b2845; border: 3px solid var(--pixel-white); border-top: 6px solid var(--pixel-red); border-radius: 0; box-shadow: 6px 6px 0 var(--pixel-dark); }
+.battle-panel:last-child { border-top-color: var(--pixel-blue); }
+.feature-panel__icon { display: grid; width: 52px; height: 52px; place-items: center; color: var(--pixel-dark); background: var(--pixel-red); border: 3px solid #ffb6bc; border-radius: 0; box-shadow: 4px 4px 0 var(--pixel-dark); }
+.battle-panel:last-child .feature-panel__icon { background: var(--pixel-blue); border-color: #a6e8ff; }
+.battle-panel h3, .battle-panel p { text-transform: uppercase; }
+.empty-state { color: var(--muted); background: #111b31; border: 3px dashed #52678d; border-radius: 0; }
+.register-page { min-height: calc(100vh - 190px); padding: 34px 16px; }
+.register-page__panel { width: min(440px,100%); }
+.registration-panel { position: relative; padding: 26px; overflow: hidden; background: #1b2845; border: 3px solid var(--pixel-white); border-top: 7px solid var(--pixel-red); border-radius: 0; box-shadow: 0 0 0 3px var(--pixel-dark), 7px 7px 0 var(--pixel-dark); }
+.registration-panel::before { position: absolute; top: 15px; right: 15px; width: 28px; height: 28px; background: linear-gradient(180deg,var(--pixel-red) 0 42%,var(--pixel-dark) 42% 58%,var(--pixel-white) 58%); border: 3px solid var(--pixel-white); border-radius: 50%; content: ""; }
+.registration-panel__header h2 { margin: 0; font-size: 1.35rem; text-transform: uppercase; text-shadow: 3px 3px 0 var(--pixel-dark); }
+.registration-form { gap: 17px; }
+.registration-form label > span, .field-label { color: var(--pixel-yellow); font-size: .68rem; text-transform: uppercase; }
+.registration-form .input-shell { min-height: 46px; padding: 0 11px; }
+.registration-form .input-shell input { min-height: 40px; background: transparent; border: 0; }
+.account-summary > div { background: var(--pixel-dark); border: 3px solid #61789e; border-radius: 0; }
+
+/* Community workshop and admin terminal */
+.community-case-builder, .admin-panel { background: #1b2845; border: 3px solid var(--pixel-white); border-radius: 0; box-shadow: 6px 6px 0 var(--pixel-dark); }
+.community-case-builder { padding: 18px; }
+.community-case-builder__head { padding-bottom: 14px; border-bottom: 3px dashed #52678d; }
+.community-case-builder__head > div > span, .community-case-builder__head > strong { color: var(--pixel-yellow); }
+.community-builder-steps { background: var(--pixel-dark); border: 3px solid #52678d; border-radius: 0; }
+.community-builder-steps span[data-active="true"] { color: var(--pixel-dark); background: var(--pixel-yellow); }
+.community-pokemon-panel, .community-odds-panel, .community-case-preview, .admin-price-editor { background: #111b31; border: 3px solid #61789e; border-radius: 0; }
+.community-filter-bar, .community-odds-panel__head { background: #263858; border-color: #61789e; }
+.community-pokemon-row, .community-selected-drop, .community-pending-choice, .community-template-option, .community-variant-option, .case-manage-item, .account-admin-card { background: #1b2845; border: 2px solid #52678d; border-radius: 0; box-shadow: 3px 3px 0 var(--pixel-dark); }
+.community-pokemon-row img, .community-selected-drop img, .community-pending-choice img { image-rendering: pixelated; }
+.community-pokemon-row:hover, .community-pokemon-row[data-active="true"], .community-template-option[data-active="true"], .community-variant-option[data-active="true"] { background: #293a5d; border-color: var(--pixel-yellow); }
+.community-pokemon-row b, .community-selected-drop__main span, .community-odds-panel__head b { color: var(--pixel-yellow); }
+.community-fill-chance-button { color: var(--pixel-dark); background: var(--pixel-yellow); border: 2px solid #fff4a9; border-radius: 0; box-shadow: inset -3px -3px 0 #c5940b; }
+.chance-summary { background: #311d32; border: 3px solid var(--pixel-red); border-radius: 0; }
+.chance-summary[data-ready="true"] { background: #17352f; border-color: var(--pixel-green); }
+.admin-mode-tabs { gap: 5px; margin-bottom: 16px; padding: 5px; background: var(--pixel-dark); border: 3px solid #52678d; border-radius: 0; }
+.tab-button { min-height: 40px; padding: 0 15px; color: var(--muted); background: #1b2845; border: 2px solid #52678d; }
+.tab-button[data-active="true"] { color: var(--pixel-dark); background: var(--pixel-yellow); border-color: #fff4a9; box-shadow: inset -3px -3px 0 #c5940b; }
+.admin-layout { gap: 16px; }
+.admin-panel { padding: 17px; }
+.admin-panel__head strong, .admin-price-editor__head span, .chance-summary strong { color: var(--pixel-yellow); }
+.case-type-toggle { padding: 4px; background: var(--pixel-dark); border: 3px solid #52678d; border-radius: 0; }
+.case-type-option { color: var(--muted); background: #1b2845; border: 2px solid transparent; border-radius: 0; }
+.case-type-option[data-active="true"] { color: var(--pixel-dark); background: var(--pixel-blue); border-color: #b9ecff; }
+.case-manage-category { color: var(--muted); background: #111b31; border: 2px solid #52678d; border-radius: 0; }
+.case-manage-category[data-active="true"] { color: var(--pixel-dark); background: var(--pixel-blue); border-color: #b9ecff; }
+.admin-price-input[data-custom="true"] .text-input { border-color: var(--pixel-yellow); box-shadow: inset 0 0 0 2px var(--pixel-dark); }
+.form-message { min-height: 42px; padding: 10px 12px; border-radius: 0; }
+.form-message[data-status="error"] { color: #fff; background: #6f1b2c; border: 3px solid #ff8994; }
+.form-message[data-status="success"] { color: #fff; background: #18513f; border: 3px solid #72e6b4; }
+
+/* Hard palette steps per rarity */
+[data-rarity="common"] { --rarity-bg: #26344f; --rarity-border: #93a4bd; --rarity-glow: transparent; }
+[data-rarity="uncommon"] { --rarity-bg: #173d38; --rarity-border: #53d89b; --rarity-glow: transparent; }
+[data-rarity="rare"] { --rarity-bg: #153956; --rarity-border: #57ccff; --rarity-glow: transparent; }
+[data-rarity="epic"] { --rarity-bg: #332957; --rarity-border: #b08cff; --rarity-glow: transparent; }
+[data-rarity="legendary"] { --rarity-bg: #49401e; --rarity-border: #ffda45; --rarity-glow: transparent; }
+[data-rarity="mythic"], [data-rarity="secret-rare"] { --rarity-bg: #4b2343; --rarity-border: #ff77b7; --rarity-glow: transparent; }
+[data-rarity="ultra-rare"] { --rarity-bg: #4b222b; --rarity-border: #ff5360; --rarity-glow: transparent; }
+[data-rarity="custom"] { --rarity-bg: #302756; --rarity-border: #a78bfa; --rarity-glow: transparent; }
+
+@media (max-width: 1380px) {
+  .main-nav { grid-template-columns: 210px minmax(340px,1fr) auto; }
+  .brand__logo { width: 200px; }
+  .main-nav__link { padding: 0 9px; }
+  .pokemon-grid { grid-template-columns: repeat(4,minmax(0,1fr)); }
+}
+
+@media (max-width: 1120px) {
+  .main-nav { grid-template-columns: 200px 1fr; gap: 8px 16px; }
+  .main-nav__links { grid-column: 1 / -1; grid-row: 2; width: 100%; }
+  .main-nav__actions { justify-self: end; }
+  .app-layout { grid-template-columns: 220px minmax(0,1fr); }
+  .chat-panel { top: 202px; height: calc(100vh - 222px); }
+  .cases-grid, .loot-grid, .pokemon-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
+  .case-detail-hero, .pokemon-detail__hero, .admin-layout, .admin-price-layout, .community-drop-layout, .community-case-builder__layout { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 820px) {
+  html, body, #root, .app-shell { max-width: 100%; overflow-x: hidden; }
+  .top-stats__inner { width: calc(100% - 24px); }
+  .nav-wrap { padding: 8px 12px 11px; }
+  .main-nav { grid-template-columns: 1fr auto; width: 100%; min-width: 0; }
+  .brand, .brand__logo { height: 52px; }
+  .brand__logo { width: 176px; }
+  .language-button { display: none; }
+  .main-nav__links { justify-content: flex-start; overflow-x: auto; }
+  .main-nav__link { flex: 0 0 auto; }
+  .app-layout { grid-template-columns: 1fr; width: 100%; padding: 14px 12px 34px; }
+  .app-layout > main { width: 100%; max-width: 100%; min-width: 0; order: 1; overflow: hidden; }
+  .chat-panel { position: static; width: 100%; height: 260px; min-height: 260px; order: 2; }
+  .case-home-tabs, .case-home-main-tabs, .case-home-subtabs, .cases-section, .case-groups, .case-group, .cases-grid { min-width: 0; max-width: 100%; }
+  .cases-grid, .loot-grid, .pokemon-grid, .inventory-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .case-home-main-tabs { width: 100%; }
+  .case-home-main-tab { flex: 1; min-width: 0; }
+  .case-home-subtabs { width: 100%; }
+  .case-home-subtab { flex: 0 0 auto; }
+  .case-detail-hero { min-height: 0; padding: 16px; }
+  .stage-frame, .case-opening-reel { min-height: 280px; }
+}
+
+@media (max-width: 560px) {
+  .top-stats__inner { gap: 16px; }
+  .top-stats__item span { display: none; }
+  .main-nav { grid-template-columns: 1fr; }
+  .main-nav__actions { grid-row: 2; justify-self: stretch; }
+  .main-nav__links { grid-row: 3; }
+  .auth-actions { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); width: 100%; }
+  .auth-actions { width: calc(100vw - 56px); max-width: calc(100vw - 56px); }
+  .auth-actions > a { min-width: 0; padding: 0 6px; font-size: .6rem; }
+  .account-button { width: 100%; }
+  .main-nav__link { min-width: 46px; justify-content: center; padding: 0 10px; }
+  .main-nav__link span { display: none; }
+  .case-home-main-tab { min-height: 42px; padding: 0 7px; font-size: .62rem; }
+  .case-home-subtabs { padding: 0 7px; }
+  .case-home-subtab { padding: 0 11px; font-size: .6rem; }
+  .cases-grid, .loot-grid, .pokemon-grid, .inventory-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; }
+  .case-home-tabs, .case-home-main-tabs, .case-home-subtabs, .cases-section, .case-groups, .case-group, .cases-grid { width: calc(100vw - 24px); max-width: calc(100vw - 24px); }
+  .case-card { width: 100%; min-width: 0; }
+  .case-card__content h3 { font-size: .58rem; }
+  .case-card__content strong { font-size: .56rem; }
+  .case-detail-hero__copy h1 { font-size: 1.55rem; }
+  .stage-frame, .case-opening-reel { min-height: 240px; }
+  .open-panel, .case-opening-result__actions, .admin-form-actions { display: grid; grid-template-columns: 1fr; }
+  .open-panel > strong, .open-panel > button, .case-opening-result__actions > button { width: 100%; }
+  .loot-card__media { min-height: 145px; }
+  .loot-card__media img { width: 94px; height: 94px; }
+  .pokemon-card { min-height: 184px; }
+  .pokemon-card img { width: 108px; height: 108px; }
+  .registration-panel, .admin-panel, .community-case-builder { padding: 14px; }
+  .admin-mode-tabs, .case-type-toggle { display: grid; grid-template-columns: 1fr; width: 100%; }
+  .admin-price-grid { overflow-x: auto; }
+  .admin-price-grid__head, .admin-price-row { min-width: 430px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
+}

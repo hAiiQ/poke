@@ -1,7 +1,7 @@
 import pokemonVariantPrices from "../../data/pokerogue_variant_prices_de.json";
 
 const spriteBase =
-  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork";
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon";
 
 export const POKEMON_GRADES = [
   "Wild",
